@@ -24,34 +24,52 @@ def main():
     for line in data:
         tmp.append([int(i) for i in line])
     lines = np.asarray(tmp)
-    max_score = 0
+    max_score = 1
     j = 0
     col = np.rot90(lines)
+    col = col[::-1]
     for line in lines:
         n = len(line)
         for tree in range(n):  
-            # print(line)  
-            right = 1
-            left = 1
-            up = 1
-            down = 1
-            for i in range(tree+1, n):
-                if(line[i] < line[tree]):
-                    right += 1
+            # print(line,tree) 
+            # print(col)
+            # print(col[(tree)],j) 
+            right = 0
+            left = 0
+            up = 0
+            down = 0
+            pos = [line[tree-1::],line[tree+1:], col[tree][j-1::], col[tree][j+1:]]
+            # print(pos[0],pos[1],pos[2],pos[3])
+            for i in pos[0]:
+                if(i >= line[tree]):
                     break
-            for i in range(0, tree-1):
-                if(line[i] < line[tree]):
-                    left += 1
+                left += 1
+                    # break
+                # print('left:',left)
+            for i in pos[1]:
+                if(i >= line[tree]):
                     break
-            for i in range(j+1, n):
-                if(col[j-tree][i] < line[tree]):
-                    up +=1
+                right += 1
+                    # break
+                # print('right :',right)
+            for i in pos[2]:
+                if(i >= line[tree]):
                     break
-            for i in range(0, j-1):
-                if(col[j-tree][i] < line[tree]):
-                    down +=1
+                up +=1
+                # print('up:',up)
+                    # break
+            for i in pos[3]:                
+                # print(col[j-tree][i], line[tree])
+                # print(i)
+                if(i >= line[tree]):
                     break
+                    # print('yes')
+                down +=1
+                # print('down:',down)
+                    # break
+            # print('down',down)
             score = left*right*up*down
+            # print(score,right,left,up,down, max_score)
             if score > max_score:
                 max_score = score
         #     # print(i)
