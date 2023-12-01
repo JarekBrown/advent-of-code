@@ -1,12 +1,9 @@
-// use crate::day1;
 use clap::{arg, command, value_parser};
 use std::env;
 
 mod day1;
 
 fn main() {
-    // let args: Vec<_> = env::args().collect();
-    // if args.len() > 1 {}
     let args = command!()
         .arg(
             arg!(--day <NUMBER> "which day is being compiled")
