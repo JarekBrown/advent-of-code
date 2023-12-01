@@ -2,15 +2,14 @@ alias r := run
 alias b := build
 alias d := debug
 
+# run with release flag
 run DAY:
 	cargo run --release -- --day {{DAY}}
 
+# build with release flag
 build DAY:
 	cargo build --release -- --day {{DAY}}
 
+# run without release flag
 debug DAY:
 	cargo run -- --day {{DAY}} 
-
-input DAY:
-	curl https://adventofcode.com/2023/day/{{DAY}}/input
-	
