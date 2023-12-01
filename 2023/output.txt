@@ -1,0 +1,6025 @@
+Hello, world!
+before: 7jlncfksix7rjgrpglmn9
+found six, changing to 6
+after: 7jlncfks6ix7rjgrpglmn9
+before: vcgkgxninerqjltdbhqzzpd4nine23
+found nine, changing to 9
+found nine, changing to 9
+after: vcgkgxn9inerqjltdbhqzzpd4n9ine23
+before: fx3
+after: fx3
+before: 8nrbjbpjpnineseven
+found seven, changing to 7
+found nine, changing to 9
+after: 8nrbjbpjpn9ines7even
+before: 7qlfhcsnxn7fpfhjcgr6eightsevenjlpchjtzpztwo
+found two, changing to 2
+found seven, changing to 7
+found eight, changing to 8
+after: 7qlfhcsnxn7fpfhjcgr6e8ights7evenjlpchjtzpzt2wo
+before: 28rzgskgk94ninefive
+found five, changing to 5
+found nine, changing to 9
+after: 28rzgskgk94n9inef5ive
+before: zdpxcql1eight5
+found eight, changing to 8
+after: zdpxcql1e8ight5
+before: 8two5six37
+found two, changing to 2
+found six, changing to 6
+after: 8t2wo5s6ix37
+before: 9khfphjl71trppsrtwo
+found two, changing to 2
+after: 9khfphjl71trppsrt2wo
+before: lxthkgbbf2jdcssfiveqksvbqvm8four4
+found four, changing to 4
+found five, changing to 5
+after: lxthkgbbf2jdcssf5iveqksvbqvm8f4our4
+before: seven9tjcgztctxzzttct
+found seven, changing to 7
+after: s7even9tjcgztctxzzttct
+before: onetljcfh9fivesvgcqnklz9four
+found one, changing to 1
+found four, changing to 4
+found five, changing to 5
+after: o1netljcfh9f5ivesvgcqnklz9f4our
+before: 4mptgcnzmvvsevenzmjjzhndzdvxmz59bm
+found seven, changing to 7
+after: 4mptgcnzmvvs7evenzmjjzhndzdvxmz59bm
+before: 1hrqthmr
+after: 1hrqthmr
+before: 7eightqmfmsn
+found eight, changing to 8
+after: 7e8ightqmfmsn
+before: jkgdnpzjkzzceighttklsfiveqxgsvxdq4
+found five, changing to 5
+found eight, changing to 8
+after: jkgdnpzjkzzce8ighttklsf5iveqxgsvxdq4
+before: hdk28lqhhttjz6one2
+found one, changing to 1
+after: hdk28lqhhttjz6o1ne2
+before: 2five524
+found five, changing to 5
+after: 2f5ive524
+before: 363mtk
+after: 363mtk
+before: qlmtpch9eightlzddxs7one
+found one, changing to 1
+found eight, changing to 8
+after: qlmtpch9e8ightlzddxs7o1ne
+before: one6five1hxphtl687rllvb
+found one, changing to 1
+found five, changing to 5
+after: o1ne6f5ive1hxphtl687rllvb
+before: 31gdnsxtpnn
+after: 31gdnsxtpnn
+before: sqvbcqlnjhk135
+after: sqvbcqlnjhk135
+before: eightgcdszrsghmmfsevendr2844
+found seven, changing to 7
+found eight, changing to 8
+after: e8ightgcdszrsghmmfs7evendr2844
+before: eightthreecdpccfj7
+found three, changing to 3
+found eight, changing to 8
+after: e8ightt3hreecdpccfj7
+before: ljfgt9kvnine175kpnrbttktktf
+found nine, changing to 9
+after: ljfgt9kvn9ine175kpnrbttktktf
+before: zjfeightfive9nine44seven4
+found five, changing to 5
+found seven, changing to 7
+found eight, changing to 8
+found nine, changing to 9
+after: zjfe8ightf5ive9n9ine44s7even4
+before: sixshbrtr4nmjr
+found six, changing to 6
+after: s6ixshbrtr4nmjr
+before: 3two54
+found two, changing to 2
+after: 3t2wo54
+before: 26sixbhmmgdcl
+found six, changing to 6
+after: 26s6ixbhmmgdcl
+before: drxfnbsdzf3gnxbtmmggvkxrsevenbbzdfxnrdnkfivefive
+found five, changing to 5
+found five, changing to 5
+found seven, changing to 7
+after: drxfnbsdzf3gnxbtmmggvkxrs7evenbbzdfxnrdnkf5ivef5ive
+before: two8591mrvchg4
+found two, changing to 2
+after: t2wo8591mrvchg4
+before: 3jjhfzlnklpvvfcnsjbdmgvlfkeight2snxrkzzsx
+found eight, changing to 8
+after: 3jjhfzlnklpvvfcnsjbdmgvlfke8ight2snxrkzzsx
+before: ztwo79onesix56seven
+found one, changing to 1
+found two, changing to 2
+found six, changing to 6
+found seven, changing to 7
+after: zt2wo79o1nes6ix56s7even
+before: threeeightrhlxptmtwofivenfourthree3
+found two, changing to 2
+found three, changing to 3
+found three, changing to 3
+found four, changing to 4
+found five, changing to 5
+found eight, changing to 8
+after: t3hreee8ightrhlxptmt2wof5ivenf4ourt3hree3
+before: fbhcqcttgxlrstcqeight4dbfjp
+found eight, changing to 8
+after: fbhcqcttgxlrstcqe8ight4dbfjp
+before: prsevenfournineglccpgssix7
+found four, changing to 4
+found six, changing to 6
+found seven, changing to 7
+found nine, changing to 9
+after: prs7evenf4ourn9ineglccpgss6ix7
+before: hzprzdvbsxzllgvttworstxtwodstxbtjnzm6
+found two, changing to 2
+found two, changing to 2
+after: hzprzdvbsxzllgvtt2worstxt2wodstxbtjnzm6
+before: 99sevenfive
+found five, changing to 5
+found seven, changing to 7
+after: 99s7evenf5ive
+before: fdvnvc2
+after: fdvnvc2
+before: vmpnpqg32llcxpbzcxqvseven
+found seven, changing to 7
+after: vmpnpqg32llcxpbzcxqvs7even
+before: dc9fgvrvsqqhlj2nq97three
+found three, changing to 3
+after: dc9fgvrvsqqhlj2nq97t3hree
+before: four77twothreeonenine9
+found one, changing to 1
+found two, changing to 2
+found three, changing to 3
+found four, changing to 4
+found nine, changing to 9
+after: f4our77t2wot3hreeo1nen9ine9
+before: 3kfkfour
+found four, changing to 4
+after: 3kfkf4our
+before: xfg58six8cjtvmrgvsq5l
+found six, changing to 6
+after: xfg58s6ix8cjtvmrgvsq5l
+before: gmfxvhftld2hbmmprpppzchcqmxninethreethree3mmplrvbtkf
+found three, changing to 3
+found three, changing to 3
+found nine, changing to 9
+after: gmfxvhftld2hbmmprpppzchcqmxn9inet3hreet3hree3mmplrvbtkf
+before: 3fourqndl6
+found four, changing to 4
+after: 3f4ourqndl6
+before: rj6ninenzkbktfqsc2
+found nine, changing to 9
+after: rj6n9inenzkbktfqsc2
+before: 9konehdmllc
+found one, changing to 1
+after: 9ko1nehdmllc
+before: mneightzzqvdm14
+found eight, changing to 8
+after: mne8ightzzqvdm14
+before: 8oneseventlrsrzflccrbv
+found one, changing to 1
+found seven, changing to 7
+after: 8o1nes7eventlrsrzflccrbv
+before: 9vvvgqdkrckjlzcfsbdgrqrhhtbb7fnhcxzmk9nine7
+found nine, changing to 9
+after: 9vvvgqdkrckjlzcfsbdgrqrhhtbb7fnhcxzmk9n9ine7
+before: 825ngddfhpfrsl6
+after: 825ngddfhpfrsl6
+before: mc6tjxxll9seven
+found seven, changing to 7
+after: mc6tjxxll9s7even
+before: fxbgccqmmh2
+after: fxbgccqmmh2
+before: five7three4vmxjlqcnc3
+found three, changing to 3
+found five, changing to 5
+after: f5ive7t3hree4vmxjlqcnc3
+before: 9mninehkmlpcxqnfkqfbg6six3
+found six, changing to 6
+found nine, changing to 9
+after: 9mn9inehkmlpcxqnfkqfbg6s6ix3
+before: 3onefourrv1ninesixfour8
+found one, changing to 1
+found four, changing to 4
+found four, changing to 4
+found six, changing to 6
+found nine, changing to 9
+after: 3o1nef4ourrv1n9ines6ixf4our8
+before: fourtwosdtz817fivevjvlzr
+found two, changing to 2
+found four, changing to 4
+found five, changing to 5
+after: f4ourt2wosdtz817f5ivevjvlzr
+before: seventhvxk1fournqqqfjrvdvbpkvd
+found four, changing to 4
+found seven, changing to 7
+after: s7eventhvxk1f4ournqqqfjrvdvbpkvd
+before: v733rklzvnslkonefive6zbvq
+found one, changing to 1
+found five, changing to 5
+after: v733rklzvnslko1nef5ive6zbvq
+before: 178ncllbfkkh4eightwoq
+found two, changing to 2
+found eight, changing to 8
+after: 178ncllbfkkh4e8ight2woq
+before: glbxfjhskzbseven6mjzlxccfive3
+found five, changing to 5
+found seven, changing to 7
+after: glbxfjhskzbs7even6mjzlxccf5ive3
+before: fptwoneonefivefive2ztxpndjdq2
+found one, changing to 1
+found one, changing to 1
+found two, changing to 2
+found five, changing to 5
+found five, changing to 5
+after: fpt2wo1neo1nef5ivef5ive2ztxpndjdq2
+before: lxzhsgqkx5mjxtrmbkdtfeightsrchzmq6
+found eight, changing to 8
+after: lxzhsgqkx5mjxtrmbkdtfe8ightsrchzmq6
+before: 1nngc2338ninedjkvszdmnjrl
+found nine, changing to 9
+after: 1nngc2338n9inedjkvszdmnjrl
+before: five6six7
+found five, changing to 5
+found six, changing to 6
+after: f5ive6s6ix7
+before: bcpxbcbssbtmdfninefivesevendtm9eighthxtvxb
+found five, changing to 5
+found seven, changing to 7
+found eight, changing to 8
+found nine, changing to 9
+after: bcpxbcbssbtmdfn9inef5ives7evendtm9e8ighthxtvxb
+before: mzdttqmfpssevensixeight3twoone4
+found one, changing to 1
+found two, changing to 2
+found six, changing to 6
+found seven, changing to 7
+found eight, changing to 8
+after: mzdttqmfpss7evens6ixe8ight3t2woo1ne4
+before: rrtzlhkgrgtmrvlcthreeonefour5
+found one, changing to 1
+found three, changing to 3
+found four, changing to 4
+after: rrtzlhkgrgtmrvlct3hreeo1nef4our5
+before: 75threeeight4
+found three, changing to 3
+found eight, changing to 8
+after: 75t3hreee8ight4
+before: 3ttcjsdrj6one91t
+found one, changing to 1
+after: 3ttcjsdrj6o1ne91t
+before: 3twofgdpfqxxp
+found two, changing to 2
+after: 3t2wofgdpfqxxp
+before: seven3gjslxpltpbonemt
+found one, changing to 1
+found seven, changing to 7
+after: s7even3gjslxpltpbo1nemt
+before: 82jcvqkrgzkx8three8rmszgdj4
+found three, changing to 3
+after: 82jcvqkrgzkx8t3hree8rmszgdj4
+before: ctwone41fnjksbxb1mxxzznsvg35fivesix
+found one, changing to 1
+found two, changing to 2
+found five, changing to 5
+found six, changing to 6
+after: ct2wo1ne41fnjksbxb1mxxzznsvg35f5ives6ix
+before: four7bzfeight3one
+found one, changing to 1
+found four, changing to 4
+found eight, changing to 8
+after: f4our7bzfe8ight3o1ne
+before: heightwo24cxs
+found two, changing to 2
+found eight, changing to 8
+after: he8ight2wo24cxs
+before: fdtwone8sevenfour37
+found one, changing to 1
+found two, changing to 2
+found four, changing to 4
+found seven, changing to 7
+after: fdt2wo1ne8s7evenf4our37
+before: 1sevenmdmlrgmqnnth1mrone
+found one, changing to 1
+found seven, changing to 7
+after: 1s7evenmdmlrgmqnnth1mro1ne
+before: 7nqxzdrblffcdm22six
+found six, changing to 6
+after: 7nqxzdrblffcdm22s6ix
+before: 5ttpzlv
+after: 5ttpzlv
+before: zhqjlfive3
+found five, changing to 5
+after: zhqjlf5ive3
+before: jvzpgppblkb6
+after: jvzpgppblkb6
+before: nine77lmfour
+found four, changing to 4
+found nine, changing to 9
+after: n9ine77lmf4our
+before: kqnvgtkgphxcxsixfoursix2
+found four, changing to 4
+found six, changing to 6
+found six, changing to 6
+after: kqnvgtkgphxcxs6ixf4ours6ix2
+before: pjjdlnineltbcknfqvhj8tworbkqhdcp
+found two, changing to 2
+found nine, changing to 9
+after: pjjdln9ineltbcknfqvhj8t2worbkqhdcp
+before: nine65fiveeightjmeight
+found five, changing to 5
+found eight, changing to 8
+found eight, changing to 8
+found nine, changing to 9
+after: n9ine65f5ivee8ightjme8ight
+before: j1sptkfhsczt
+after: j1sptkfhsczt
+before: 4czpqqglpc41bzkss1
+after: 4czpqqglpc41bzkss1
+before: qd28j
+after: qd28j
+before: three1fourfourm
+found three, changing to 3
+found four, changing to 4
+found four, changing to 4
+after: t3hree1f4ourf4ourm
+before: four5seven4twodvmzzdtn
+found two, changing to 2
+found four, changing to 4
+found seven, changing to 7
+after: f4our5s7even4t2wodvmzzdtn
+before: zj4
+after: zj4
+before: dzzrdkjjdxspfrjsonefive8brrzlrjvzfour
+found one, changing to 1
+found four, changing to 4
+found five, changing to 5
+after: dzzrdkjjdxspfrjso1nef5ive8brrzlrjvzf4our
+before: zrjzfxxddn66
+after: zrjzfxxddn66
+before: fourrnsphsdzmv9xznt6seven
+found four, changing to 4
+found seven, changing to 7
+after: f4ourrnsphsdzmv9xznt6s7even
+before: 56eightcbhkmjfourone
+found one, changing to 1
+found four, changing to 4
+found eight, changing to 8
+after: 56e8ightcbhkmjf4ouro1ne
+before: fivejzlbvqzb3sixsix
+found five, changing to 5
+found six, changing to 6
+found six, changing to 6
+after: f5ivejzlbvqzb3s6ixs6ix
+before: fiveghfclksgqffdpb7
+found five, changing to 5
+after: f5iveghfclksgqffdpb7
+before: cmmplbcnml36threetrxnhrrdonelmspsbhfd9twonenn
+found one, changing to 1
+found one, changing to 1
+found two, changing to 2
+found three, changing to 3
+after: cmmplbcnml36t3hreetrxnhrrdo1nelmspsbhfd9t2wo1nenn
+before: ccxrlmzrreightone9three9
+found one, changing to 1
+found three, changing to 3
+found eight, changing to 8
+after: ccxrlmzrre8ighto1ne9t3hree9
+before: zg6four1eight
+found four, changing to 4
+found eight, changing to 8
+after: zg6f4our1e8ight
+before: 1ngv
+after: 1ngv
+before: bfhptfjzlgkxtftwo7gthree
+found two, changing to 2
+found three, changing to 3
+after: bfhptfjzlgkxtft2wo7gt3hree
+before: txrpbzgjzg272three9jlstdb8
+found three, changing to 3
+after: txrpbzgjzg272t3hree9jlstdb8
+before: 3seven6twofxvxdlcqj33
+found two, changing to 2
+found seven, changing to 7
+after: 3s7even6t2wofxvxdlcqj33
+before: six3eightjrdxgkrkm5five
+found five, changing to 5
+found six, changing to 6
+found eight, changing to 8
+after: s6ix3e8ightjrdxgkrkm5f5ive
+before: one67one3
+found one, changing to 1
+found one, changing to 1
+after: o1ne67o1ne3
+before: gnfhhkffqfctxmvznmftwo34gjsrpxlv43
+found two, changing to 2
+after: gnfhhkffqfctxmvznmft2wo34gjsrpxlv43
+before: five6zjdjpptnthreefour7sevenqfjlpshg
+found three, changing to 3
+found four, changing to 4
+found five, changing to 5
+found seven, changing to 7
+after: f5ive6zjdjpptnt3hreef4our7s7evenqfjlpshg
+before: onesevenninesvnnrvxxeightrdbvsbdnzgtmlmf1
+found one, changing to 1
+found seven, changing to 7
+found eight, changing to 8
+found nine, changing to 9
+after: o1nes7evenn9inesvnnrvxxe8ightrdbvsbdnzgtmlmf1
+before: 2six8seven
+found six, changing to 6
+found seven, changing to 7
+after: 2s6ix8s7even
+before: 3eightjrpqdrtwoxjvmgzpbffjnfdps9
+found two, changing to 2
+found eight, changing to 8
+after: 3e8ightjrpqdrt2woxjvmgzpbffjnfdps9
+before: tptlcldftc3
+after: tptlcldftc3
+before: lcpqlbjfgmhkjpkhc4eight9ninesixsixseven
+found six, changing to 6
+found six, changing to 6
+found seven, changing to 7
+found eight, changing to 8
+found nine, changing to 9
+after: lcpqlbjfgmhkjpkhc4e8ight9n9ines6ixs6ixs7even
+before: eightxjfqqtxnsbsnrdxdjv8six79
+found six, changing to 6
+found eight, changing to 8
+after: e8ightxjfqqtxnsbsnrdxdjv8s6ix79
+before: tvkthbbrr8five
+found five, changing to 5
+after: tvkthbbrr8f5ive
+before: seven35threerrkdqjgps58two
+found two, changing to 2
+found three, changing to 3
+found seven, changing to 7
+after: s7even35t3hreerrkdqjgps58t2wo
+before: 5dln1rqqgdjlcmmrvm2pmhvhcxhfsbxkfqngp5
+after: 5dln1rqqgdjlcmmrvm2pmhvhcxhfsbxkfqngp5
+before: sixnpvbq36514one
+found one, changing to 1
+found six, changing to 6
+after: s6ixnpvbq36514o1ne
+before: mxdvxfgdfzmkjcrtl2
+after: mxdvxfgdfzmkjcrtl2
+before: onejv7lxmbrbzjsthreesevenninesm
+found one, changing to 1
+found three, changing to 3
+found seven, changing to 7
+found nine, changing to 9
+after: o1nejv7lxmbrbzjst3hrees7evenn9inesm
+before: threehbhnm8nine
+found three, changing to 3
+found nine, changing to 9
+after: t3hreehbhnm8n9ine
+before: bvhgqz6
+after: bvhgqz6
+before: 9two89sixfxjz37
+found two, changing to 2
+found six, changing to 6
+after: 9t2wo89s6ixfxjz37
+before: 8xninepvggctk85fivefkj
+found five, changing to 5
+found nine, changing to 9
+after: 8xn9inepvggctk85f5ivefkj
+before: 8sixdjndzzzrkk
+found six, changing to 6
+after: 8s6ixdjndzzzrkk
+before: five61oneightr
+found one, changing to 1
+found five, changing to 5
+found eight, changing to 8
+after: f5ive61o1ne8ightr
+before: cmthreesixeight7jlvdvmdjfzbv3
+found three, changing to 3
+found six, changing to 6
+found eight, changing to 8
+after: cmt3hrees6ixe8ight7jlvdvmdjfzbv3
+before: 9two1onefour1clxjonetwo
+found one, changing to 1
+found one, changing to 1
+found two, changing to 2
+found two, changing to 2
+found four, changing to 4
+after: 9t2wo1o1nef4our1clxjo1net2wo
+before: 9sixtzphqltmeightlbrhjone1ktrvjldff6
+found one, changing to 1
+found six, changing to 6
+found eight, changing to 8
+after: 9s6ixtzphqltme8ightlbrhjo1ne1ktrvjldff6
+before: five68eightfourqpfcxftzlxrhgdcvpd
+found four, changing to 4
+found five, changing to 5
+found eight, changing to 8
+after: f5ive68e8ightf4ourqpfcxftzlxrhgdcvpd
+before: nxvdtfkltwozzl72fourhzxtqjf1
+found two, changing to 2
+found four, changing to 4
+after: nxvdtfklt2wozzl72f4ourhzxtqjf1
+before: 91fiveeightthree65twoneh
+found one, changing to 1
+found two, changing to 2
+found three, changing to 3
+found five, changing to 5
+found eight, changing to 8
+after: 91f5ivee8ightt3hree65t2wo1neh
+before: 3eight6ninexqqgxzxfgmsixseveneightfqk
+found six, changing to 6
+found seven, changing to 7
+found eight, changing to 8
+found eight, changing to 8
+found nine, changing to 9
+after: 3e8ight6n9inexqqgxzxfgms6ixs7evene8ightfqk
+before: dlpsfmsthree2zgfpdnftvfqgsgr
+found three, changing to 3
+after: dlpsfmst3hree2zgfpdnftvfqgsgr
+before: 4kggfpxg8jpxzdqsixeight
+found six, changing to 6
+found eight, changing to 8
+after: 4kggfpxg8jpxzdqs6ixe8ight
+before: fivefourtwo923
+found two, changing to 2
+found four, changing to 4
+found five, changing to 5
+after: f5ivef4ourt2wo923
+before: z3gx
+after: z3gx
+before: six4prlsp84tgvc
+found six, changing to 6
+after: s6ix4prlsp84tgvc
+before: 1foursrznv62k
+found four, changing to 4
+after: 1f4oursrznv62k
+before: vmzr829nkxtlf
+after: vmzr829nkxtlf
+before: 3dzsx2two7sixfivebkktgfbzdt
+found two, changing to 2
+found five, changing to 5
+found six, changing to 6
+after: 3dzsx2t2wo7s6ixf5ivebkktgfbzdt
+before: fourpzpmvxc2zvvrhrbhf
+found four, changing to 4
+after: f4ourpzpmvxc2zvvrhrbhf
+before: frpddtknqjxpqqzhdnfour9sixdqjbqxh
+found four, changing to 4
+found six, changing to 6
+after: frpddtknqjxpqqzhdnf4our9s6ixdqjbqxh
+before: 89sevengkbeight6mn
+found seven, changing to 7
+found eight, changing to 8
+after: 89s7evengkbe8ight6mn
+before: two7jcpnxhbtmhtwo39twoone
+found one, changing to 1
+found two, changing to 2
+found two, changing to 2
+found two, changing to 2
+after: t2wo7jcpnxhbtmht2wo39t2woo1ne
+before: cvdqlfkrs821fourrrgnmm
+found four, changing to 4
+after: cvdqlfkrs821f4ourrrgnmm
+before: 6onefhnnbrzgx7fourxcj
+found one, changing to 1
+found four, changing to 4
+after: 6o1nefhnnbrzgx7f4ourxcj
+before: seveneighthfr6rz
+found seven, changing to 7
+found eight, changing to 8
+after: s7evene8ighthfr6rz
+before: 9vvqlpnzbxfct8
+after: 9vvqlpnzbxfct8
+before: two8three2fpseveneight
+found two, changing to 2
+found three, changing to 3
+found seven, changing to 7
+found eight, changing to 8
+after: t2wo8t3hree2fps7evene8ight
+before: 2three75three2
+found three, changing to 3
+found three, changing to 3
+after: 2t3hree75t3hree2
+before: znvbrbrqlfive8
+found five, changing to 5
+after: znvbrbrqlf5ive8
+before: lnfjqfkk8
+after: lnfjqfkk8
+before: 14tvvmdlntrv6three
+found three, changing to 3
+after: 14tvvmdlntrv6t3hree
+before: 5twor2chtvj
+found two, changing to 2
+after: 5t2wor2chtvj
+before: threetwomgrcfivefive7
+found two, changing to 2
+found three, changing to 3
+found five, changing to 5
+found five, changing to 5
+after: t3hreet2womgrcf5ivef5ive7
+before: five4qbvxthrfxdkjkk
+found five, changing to 5
+after: f5ive4qbvxthrfxdkjkk
+before: sixthreethree5scmqrfq4vf3
+found three, changing to 3
+found three, changing to 3
+found six, changing to 6
+after: s6ixt3hreet3hree5scmqrfq4vf3
+before: rjsljnqcrttbpfhfxbfourone4
+found one, changing to 1
+found four, changing to 4
+after: rjsljnqcrttbpfhfxbf4ouro1ne4
+before: threeseventwoseven87dnmqjbbxfoneighttfz
+found one, changing to 1
+found two, changing to 2
+found three, changing to 3
+found seven, changing to 7
+found seven, changing to 7
+found eight, changing to 8
+after: t3hrees7event2wos7even87dnmqjbbxfo1ne8ighttfz
+before: seven4four9eightxqlsixthreeone
+found one, changing to 1
+found three, changing to 3
+found four, changing to 4
+found six, changing to 6
+found seven, changing to 7
+found eight, changing to 8
+after: s7even4f4our9e8ightxqls6ixt3hreeo1ne
+before: 1ninesix43bmsttggvzn14
+found six, changing to 6
+found nine, changing to 9
+after: 1n9ines6ix43bmsttggvzn14
+before: seven1sixbmnxmz
+found six, changing to 6
+found seven, changing to 7
+after: s7even1s6ixbmnxmz
+before: grqhlkrcdzbhstgtvpclvtphph4twoseven
+found two, changing to 2
+found seven, changing to 7
+after: grqhlkrcdzbhstgtvpclvtphph4t2wos7even
+before: fgfprscb27pzfvvblxhkvonefive
+found one, changing to 1
+found five, changing to 5
+after: fgfprscb27pzfvvblxhkvo1nef5ive
+before: five77fivethreefive3vddgfngng
+found three, changing to 3
+found five, changing to 5
+found five, changing to 5
+found five, changing to 5
+after: f5ive77f5ivet3hreef5ive3vddgfngng
+before: 13nllfsevenfour6four
+found four, changing to 4
+found four, changing to 4
+found seven, changing to 7
+after: 13nllfs7evenf4our6f4our
+before: threenineeightfour173three
+found three, changing to 3
+found three, changing to 3
+found four, changing to 4
+found eight, changing to 8
+found nine, changing to 9
+after: t3hreen9inee8ightf4our173t3hree
+before: fourqvsbxxzmfh2hhcjxsrkz
+found four, changing to 4
+after: f4ourqvsbxxzmfh2hhcjxsrkz
+before: 4jdtxgltkkkvlnhrztwofxppsdlcqztwo3gdlctj
+found two, changing to 2
+found two, changing to 2
+after: 4jdtxgltkkkvlnhrzt2wofxppsdlcqzt2wo3gdlctj
+before: 5four334rvfour9
+found four, changing to 4
+found four, changing to 4
+after: 5f4our334rvf4our9
+before: 551threenine
+found three, changing to 3
+found nine, changing to 9
+after: 551t3hreen9ine
+before: eightonenineeight8
+found one, changing to 1
+found eight, changing to 8
+found eight, changing to 8
+found nine, changing to 9
+after: e8ighto1nen9inee8ight8
+before: qmjqmjvvfkdbnjgkrqh8two
+found two, changing to 2
+after: qmjqmjvvfkdbnjgkrqh8t2wo
+before: sevenjzqnv32lldmr5one
+found one, changing to 1
+found seven, changing to 7
+after: s7evenjzqnv32lldmr5o1ne
+before: 6five8fivefour
+found four, changing to 4
+found five, changing to 5
+found five, changing to 5
+after: 6f5ive8f5ivef4our
+before: ljvhqqvqxqsix1367
+found six, changing to 6
+after: ljvhqqvqxqs6ix1367
+before: two6kvjtwonenzf
+found one, changing to 1
+found two, changing to 2
+found two, changing to 2
+after: t2wo6kvjt2wo1nenzf
+before: 2p5chjdcseven9
+found seven, changing to 7
+after: 2p5chjdcs7even9
+before: lnrrrkkdsvfhkl9vfqfgnvonegtwo6
+found one, changing to 1
+found two, changing to 2
+after: lnrrrkkdsvfhkl9vfqfgnvo1negt2wo6
+before: twoseven4lhhpcvthree4tkrone
+found one, changing to 1
+found two, changing to 2
+found three, changing to 3
+found seven, changing to 7
+after: t2wos7even4lhhpcvt3hree4tkro1ne
+before: 8hllnnmpm3rjxndcmpt9jfjqng
+after: 8hllnnmpm3rjxndcmpt9jfjqng
+before: qbnlgqeight2csvjshglqzmgkqqxqzq95
+found eight, changing to 8
+after: qbnlgqe8ight2csvjshglqzmgkqqxqzq95
+before: two2nine
+found two, changing to 2
+found nine, changing to 9
+after: t2wo2n9ine
+before: rrpffkq15foureighttwo2
+found two, changing to 2
+found four, changing to 4
+found eight, changing to 8
+after: rrpffkq15f4oure8ightt2wo2
+before: five3ninetpx5fmrzsqvfzq
+found five, changing to 5
+found nine, changing to 9
+after: f5ive3n9inetpx5fmrzsqvfzq
+before: mrqhcpgvblhvskv5pdsdzzfzfsix
+found six, changing to 6
+after: mrqhcpgvblhvskv5pdsdzzfzfs6ix
+before: two7fvmhvseventwo7
+found two, changing to 2
+found two, changing to 2
+found seven, changing to 7
+after: t2wo7fvmhvs7event2wo7
+before: 3sixone94three8fdplbm2
+found one, changing to 1
+found three, changing to 3
+found six, changing to 6
+after: 3s6ixo1ne94t3hree8fdplbm2
+before: loneightseveng79
+found one, changing to 1
+found seven, changing to 7
+found eight, changing to 8
+after: lo1ne8ights7eveng79
+before: fourone7
+found one, changing to 1
+found four, changing to 4
+after: f4ouro1ne7
+before: zvgjt1
+after: zvgjt1
+before: xpgbfghsmj2six8eight8mzlnvmv7
+found six, changing to 6
+found eight, changing to 8
+after: xpgbfghsmj2s6ix8e8ight8mzlnvmv7
+before: grjtwo48
+found two, changing to 2
+after: grjt2wo48
+before: jhcgjlgxt1seven1
+found seven, changing to 7
+after: jhcgjlgxt1s7even1
+before: 5dhtppxrxcsbjsm37
+after: 5dhtppxrxcsbjsm37
+before: cbhmtp56xbqzppjjfivezhtxxvkrzsix
+found five, changing to 5
+found six, changing to 6
+after: cbhmtp56xbqzppjjf5ivezhtxxvkrzs6ix
+before: hctwonelcninefourfive2
+found one, changing to 1
+found two, changing to 2
+found four, changing to 4
+found five, changing to 5
+found nine, changing to 9
+after: hct2wo1nelcn9inef4ourf5ive2
+before: four4rcxpkzbeight95xxdb3
+found four, changing to 4
+found eight, changing to 8
+after: f4our4rcxpkzbe8ight95xxdb3
+before: fivejlplgzflone963two
+found one, changing to 1
+found two, changing to 2
+found five, changing to 5
+after: f5ivejlplgzflo1ne963t2wo
+before: trgninefourtwo6five
+found two, changing to 2
+found four, changing to 4
+found five, changing to 5
+found nine, changing to 9
+after: trgn9inef4ourt2wo6f5ive
+before: 66fournine535foursxbvsfvf
+found four, changing to 4
+found four, changing to 4
+found nine, changing to 9
+after: 66f4ourn9ine535f4oursxbvsfvf
+before: 1bskfour
+found four, changing to 4
+after: 1bskf4our
+before: dvlmbrxssevenhldvjxdzcfdvbfourthree2seven6
+found three, changing to 3
+found four, changing to 4
+found seven, changing to 7
+found seven, changing to 7
+after: dvlmbrxss7evenhldvjxdzcfdvbf4ourt3hree2s7even6
+before: 6two92635
+found two, changing to 2
+after: 6t2wo92635
+before: 8dzszone
+found one, changing to 1
+after: 8dzszo1ne
+before: hfcm6
+after: hfcm6
+before: dxrfhpdbrqmqq8four
+found four, changing to 4
+after: dxrfhpdbrqmqq8f4our
+before: bfclp5sixeight81three
+found three, changing to 3
+found six, changing to 6
+found eight, changing to 8
+after: bfclp5s6ixe8ight81t3hree
+before: eightffsqgkmt53gfjxqsskpsfpbcmqvdfour9
+found four, changing to 4
+found eight, changing to 8
+after: e8ightffsqgkmt53gfjxqsskpsfpbcmqvdf4our9
+before: 6sevensevenfour1v
+found four, changing to 4
+found seven, changing to 7
+found seven, changing to 7
+after: 6s7evens7evenf4our1v
+before: 9threetfspsfxhnzblgsxz
+found three, changing to 3
+after: 9t3hreetfspsfxhnzblgsxz
+before: seven5tz7pfhlpt9qxrqz
+found seven, changing to 7
+after: s7even5tz7pfhlpt9qxrqz
+before: pmbeightwooneonefiveseventft4
+found one, changing to 1
+found one, changing to 1
+found two, changing to 2
+found five, changing to 5
+found seven, changing to 7
+found eight, changing to 8
+after: pmbe8ight2woo1neo1nef5ives7eventft4
+before: xhjhmzljnx7
+after: xhjhmzljnx7
+before: twotgdvhkpmg1rthzfc6
+found two, changing to 2
+after: t2wotgdvhkpmg1rthzfc6
+before: onesevennpcsbfive9sixseven
+found one, changing to 1
+found five, changing to 5
+found six, changing to 6
+found seven, changing to 7
+found seven, changing to 7
+after: o1nes7evennpcsbf5ive9s6ixs7even
+before: 7sevenmbhlrjxrpddcnl
+found seven, changing to 7
+after: 7s7evenmbhlrjxrpddcnl
+before: 8fsvntpptctwobjmkgzvc4two
+found two, changing to 2
+found two, changing to 2
+after: 8fsvntpptct2wobjmkgzvc4t2wo
+before: onetwosix4
+found one, changing to 1
+found two, changing to 2
+found six, changing to 6
+after: o1net2wos6ix4
+before: fourthree4fourlqbvscdponeights
+found one, changing to 1
+found three, changing to 3
+found four, changing to 4
+found four, changing to 4
+found eight, changing to 8
+after: f4ourt3hree4f4ourlqbvscdpo1ne8ights
+before: 1glkfrdb69sixsrvvb
+found six, changing to 6
+after: 1glkfrdb69s6ixsrvvb
+before: ninetwoeight7cvjtdmgpsfivefnlvgsqtstwo9
+found two, changing to 2
+found two, changing to 2
+found five, changing to 5
+found eight, changing to 8
+found nine, changing to 9
+after: n9inet2woe8ight7cvjtdmgpsf5ivefnlvgsqtst2wo9
+before: 9threejtfoureightseven
+found three, changing to 3
+found four, changing to 4
+found seven, changing to 7
+found eight, changing to 8
+after: 9t3hreejtf4oure8ights7even
+before: 38nine8
+found nine, changing to 9
+after: 38n9ine8
+before: 87two7onetwo
+found one, changing to 1
+found two, changing to 2
+found two, changing to 2
+after: 87t2wo7o1net2wo
+before: 2vkkcgxdqpnthreehklfmfmjdpkz9fivetwofour
+found two, changing to 2
+found three, changing to 3
+found four, changing to 4
+found five, changing to 5
+after: 2vkkcgxdqpnt3hreehklfmfmjdpkz9f5ivet2wof4our
+before: one5oneone5oneone
+found one, changing to 1
+found one, changing to 1
+found one, changing to 1
+found one, changing to 1
+found one, changing to 1
+after: o1ne5o1neo1ne5o1neo1ne
+before: three5hlxkxrmxsbgrzqsgrone
+found one, changing to 1
+found three, changing to 3
+after: t3hree5hlxkxrmxsbgrzqsgro1ne
+before: twokbbnbjp7
+found two, changing to 2
+after: t2wokbbnbjp7
+before: mvxpdllxrvfthreeone51eight
+found one, changing to 1
+found three, changing to 3
+found eight, changing to 8
+after: mvxpdllxrvft3hreeo1ne51e8ight
+before: rrqvfiveseven5two1qgqppn
+found two, changing to 2
+found five, changing to 5
+found seven, changing to 7
+after: rrqvf5ives7even5t2wo1qgqppn
+before: 92s
+after: 92s
+before: fourxcj8frbvlxzgpvoneone
+found one, changing to 1
+found one, changing to 1
+found four, changing to 4
+after: f4ourxcj8frbvlxzgpvo1neo1ne
+before: 648211
+after: 648211
+before: 4eightgzxnsixlvksllptszztmkjb3four
+found four, changing to 4
+found six, changing to 6
+found eight, changing to 8
+after: 4e8ightgzxns6ixlvksllptszztmkjb3f4our
+before: fivegqg6
+found five, changing to 5
+after: f5ivegqg6
+before: foureightmmnknlseven1
+found four, changing to 4
+found seven, changing to 7
+found eight, changing to 8
+after: f4oure8ightmmnknls7even1
+before: 83kx
+after: 83kx
+before: sixeight12kskzhrjjpslmprtwo
+found two, changing to 2
+found six, changing to 6
+found eight, changing to 8
+after: s6ixe8ight12kskzhrjjpslmprt2wo
+before: 1xzncrsfrlfivetwoxptv46nine
+found two, changing to 2
+found five, changing to 5
+found nine, changing to 9
+after: 1xzncrsfrlf5ivet2woxptv46n9ine
+before: fourmxfq6twotwo4
+found two, changing to 2
+found two, changing to 2
+found four, changing to 4
+after: f4ourmxfq6t2wot2wo4
+before: oneht8
+found one, changing to 1
+after: o1neht8
+before: 3prjdlrcznine
+found nine, changing to 9
+after: 3prjdlrczn9ine
+before: btkpqmxxmggkzftmkxbzqvdccchxdmjlqztzfgfour7
+found four, changing to 4
+after: btkpqmxxmggkzftmkxbzqvdccchxdmjlqztzfgf4our7
+before: tvbstznine9z
+found nine, changing to 9
+after: tvbstzn9ine9z
+before: two1fivemmnlcnmqlrnbp95gjjh
+found two, changing to 2
+found five, changing to 5
+after: t2wo1f5ivemmnlcnmqlrnbp95gjjh
+before: dq671ninezk
+found nine, changing to 9
+after: dq671n9inezk
+before: 6cmxtt769
+after: 6cmxtt769
+before: 629rkhc198
+after: 629rkhc198
+before: 2fourfiver
+found four, changing to 4
+found five, changing to 5
+after: 2f4ourf5iver
+before: three5nqkjdsixfrjnf4gcbjrznine
+found three, changing to 3
+found six, changing to 6
+found nine, changing to 9
+after: t3hree5nqkjds6ixfrjnf4gcbjrzn9ine
+before: xjhqqf7oneeightrgkdprrssmxp63
+found one, changing to 1
+found eight, changing to 8
+after: xjhqqf7o1nee8ightrgkdprrssmxp63
+before: 5fourfivekpvmnlpfrt1
+found four, changing to 4
+found five, changing to 5
+after: 5f4ourf5ivekpvmnlpfrt1
+before: xnqkjcldhttbpjr8
+after: xnqkjcldhttbpjr8
+before: fdntjsb957sevenhbmntp
+found seven, changing to 7
+after: fdntjsb957s7evenhbmntp
+before: jlmmmmdv482three
+found three, changing to 3
+after: jlmmmmdv482t3hree
+before: 63lnbhmdhpsp32
+after: 63lnbhmdhpsp32
+before: 99cmntldfdflqkfkv
+after: 99cmntldfdflqkfkv
+before: kqnlqqkpr9eighteightthree15threenine
+found three, changing to 3
+found three, changing to 3
+found eight, changing to 8
+found eight, changing to 8
+found nine, changing to 9
+after: kqnlqqkpr9e8ighte8ightt3hree15t3hreen9ine
+before: 6threefttghrvjsjg6
+found three, changing to 3
+after: 6t3hreefttghrvjsjg6
+before: spmrjzfm6eightwokn
+found two, changing to 2
+found eight, changing to 8
+after: spmrjzfm6e8ight2wokn
+before: bdcjfqvsdronertfztlblqbgfgtkjv8qhbjfhthree6nine
+found one, changing to 1
+found three, changing to 3
+found nine, changing to 9
+after: bdcjfqvsdro1nertfztlblqbgfgtkjv8qhbjfht3hree6n9ine
+before: 9fvltpsxtcbtjxbtlfdvm7
+after: 9fvltpsxtcbtjxbtlfdvm7
+before: 6jxvxrdmpjthreefstfgrsixfourzbfznjjlqtjx
+found three, changing to 3
+found four, changing to 4
+found six, changing to 6
+after: 6jxvxrdmpjt3hreefstfgrs6ixf4ourzbfznjjlqtjx
+before: 8onesixkmhgvsnfhqnxlkn
+found one, changing to 1
+found six, changing to 6
+after: 8o1nes6ixkmhgvsnfhqnxlkn
+before: rrjxvqjbnvvsgddtvmb3six5
+found six, changing to 6
+after: rrjxvqjbnvvsgddtvmb3s6ix5
+before: eight8sevenbmtgbvdzcpqnzqone1hbhlgcfour
+found one, changing to 1
+found four, changing to 4
+found seven, changing to 7
+found eight, changing to 8
+after: e8ight8s7evenbmtgbvdzcpqnzqo1ne1hbhlgcf4our
+before: 2nineseven41
+found seven, changing to 7
+found nine, changing to 9
+after: 2n9ines7even41
+before: 8xptgrh1njz
+after: 8xptgrh1njz
+before: geightwo93sevenseventwobpdhhjsrbfour57
+found two, changing to 2
+found two, changing to 2
+found four, changing to 4
+found seven, changing to 7
+found seven, changing to 7
+found eight, changing to 8
+after: ge8ight2wo93s7evens7event2wobpdhhjsrbf4our57
+before: m4kd9four
+found four, changing to 4
+after: m4kd9f4our
+before: 6nine5seven9v
+found seven, changing to 7
+found nine, changing to 9
+after: 6n9ine5s7even9v
+before: glzc1fiveeightvbmvk
+found five, changing to 5
+found eight, changing to 8
+after: glzc1f5ivee8ightvbmvk
+before: ninesixone3sevenzmvrqbtwo4four
+found one, changing to 1
+found two, changing to 2
+found four, changing to 4
+found six, changing to 6
+found seven, changing to 7
+found nine, changing to 9
+after: n9ines6ixo1ne3s7evenzmvrqbt2wo4f4our
+before: 9onefoureightfivefour
+found one, changing to 1
+found four, changing to 4
+found four, changing to 4
+found five, changing to 5
+found eight, changing to 8
+after: 9o1nef4oure8ightf5ivef4our
+before: fjqpgnjdd1twoninecgsqsmtonenine1f
+found one, changing to 1
+found two, changing to 2
+found nine, changing to 9
+found nine, changing to 9
+after: fjqpgnjdd1t2won9inecgsqsmto1nen9ine1f
+before: 94sixthreedflcddxnvvrthree
+found three, changing to 3
+found three, changing to 3
+found six, changing to 6
+after: 94s6ixt3hreedflcddxnvvrt3hree
+before: vvfnbgpkgsnjtszxhrsixfive5rrdtfpkdhdvsg
+found five, changing to 5
+found six, changing to 6
+after: vvfnbgpkgsnjtszxhrs6ixf5ive5rrdtfpkdhdvsg
+before: 39four1pjfkt
+found four, changing to 4
+after: 39f4our1pjfkt
+before: 45sixkhlfc1fivetcvnlstnine
+found five, changing to 5
+found six, changing to 6
+found nine, changing to 9
+after: 45s6ixkhlfc1f5ivetcvnlstn9ine
+before: sevenone2seven
+found one, changing to 1
+found seven, changing to 7
+found seven, changing to 7
+after: s7eveno1ne2s7even
+before: twofiveonenine6eight5
+found one, changing to 1
+found two, changing to 2
+found five, changing to 5
+found eight, changing to 8
+found nine, changing to 9
+after: t2wof5iveo1nen9ine6e8ight5
+before: grxzndnqpd56
+after: grxzndnqpd56
+before: xnpdfnfgt5fivetwotwo
+found two, changing to 2
+found two, changing to 2
+found five, changing to 5
+after: xnpdfnfgt5f5ivet2wot2wo
+before: 9four6two
+found two, changing to 2
+found four, changing to 4
+after: 9f4our6t2wo
+before: sgmlzbpnkrmfivesbdzbnhkcxndpone49
+found one, changing to 1
+found five, changing to 5
+after: sgmlzbpnkrmf5ivesbdzbnhkcxndpo1ne49
+before: 88six2hrmkl2
+found six, changing to 6
+after: 88s6ix2hrmkl2
+before: mthree3eightfiveone
+found one, changing to 1
+found three, changing to 3
+found five, changing to 5
+found eight, changing to 8
+after: mt3hree3e8ightf5iveo1ne
+before: smrzqc7twothree2three
+found two, changing to 2
+found three, changing to 3
+found three, changing to 3
+after: smrzqc7t2wot3hree2t3hree
+before: nmtwo8cr
+found two, changing to 2
+after: nmt2wo8cr
+before: 378one47four
+found one, changing to 1
+found four, changing to 4
+after: 378o1ne47f4our
+before: 27four
+found four, changing to 4
+after: 27f4our
+before: 5two7seven68six
+found two, changing to 2
+found six, changing to 6
+found seven, changing to 7
+after: 5t2wo7s7even68s6ix
+before: 9onecnonethree9
+found one, changing to 1
+found one, changing to 1
+found three, changing to 3
+after: 9o1necno1net3hree9
+before: nineqhvbjqbrkpjhjhdbpk3twoseven
+found two, changing to 2
+found seven, changing to 7
+found nine, changing to 9
+after: n9ineqhvbjqbrkpjhjhdbpk3t2wos7even
+before: rq4qldc
+after: rq4qldc
+before: 86bqzct2nine
+found nine, changing to 9
+after: 86bqzct2n9ine
+before: eightsnfgrjzhsnxbfivethree6ljxx
+found three, changing to 3
+found five, changing to 5
+found eight, changing to 8
+after: e8ightsnfgrjzhsnxbf5ivet3hree6ljxx
+before: oneeight1threevzdcplnqrbk92
+found one, changing to 1
+found three, changing to 3
+found eight, changing to 8
+after: o1nee8ight1t3hreevzdcplnqrbk92
+before: 8k9dkqmqhndthreethree
+found three, changing to 3
+found three, changing to 3
+after: 8k9dkqmqhndt3hreet3hree
+before: 9sp6j5two
+found two, changing to 2
+after: 9sp6j5t2wo
+before: 4rsone1seven2seventwo
+found one, changing to 1
+found two, changing to 2
+found seven, changing to 7
+found seven, changing to 7
+after: 4rso1ne1s7even2s7event2wo
+before: ninehhdcbxfgs7fljclncb6vpzhqphxz
+found nine, changing to 9
+after: n9inehhdcbxfgs7fljclncb6vpzhqphxz
+before: drplsnsch3zfr
+after: drplsnsch3zfr
+before: 86nine
+found nine, changing to 9
+after: 86n9ine
+before: 2threeeightsixvzpcqjs
+found three, changing to 3
+found six, changing to 6
+found eight, changing to 8
+after: 2t3hreee8ights6ixvzpcqjs
+before: dmkhbxsggeight7seven9
+found seven, changing to 7
+found eight, changing to 8
+after: dmkhbxsgge8ight7s7even9
+before: fourshjlmrbbcnznstgj2sx
+found four, changing to 4
+after: f4ourshjlmrbbcnznstgj2sx
+before: gcbzbldk6nine
+found nine, changing to 9
+after: gcbzbldk6n9ine
+before: fourskpc1vzfxsrjckcmccljtt9
+found four, changing to 4
+after: f4ourskpc1vzfxsrjckcmccljtt9
+before: 1oneone53oneeight6
+found one, changing to 1
+found one, changing to 1
+found one, changing to 1
+found eight, changing to 8
+after: 1o1neo1ne53o1nee8ight6
+before: six3fourqxqbs9nkbsixthreesix
+found three, changing to 3
+found four, changing to 4
+found six, changing to 6
+found six, changing to 6
+found six, changing to 6
+after: s6ix3f4ourqxqbs9nkbs6ixt3hrees6ix
+before: pmlrkrhqdjgg121nineseven9
+found seven, changing to 7
+found nine, changing to 9
+after: pmlrkrhqdjgg121n9ines7even9
+before: dmgnq6
+after: dmgnq6
+before: kpmponeone5
+found one, changing to 1
+found one, changing to 1
+after: kpmpo1neo1ne5
+before: mxmhbqnrcjj1threeeightxzfive
+found three, changing to 3
+found five, changing to 5
+found eight, changing to 8
+after: mxmhbqnrcjj1t3hreee8ightxzf5ive
+before: onebzxnrqqfltfourglvkqfive4nine5
+found one, changing to 1
+found four, changing to 4
+found five, changing to 5
+found nine, changing to 9
+after: o1nebzxnrqqfltf4ourglvkqf5ive4n9ine5
+before: threezvmfl7vsdrthsdsjsix9mbrqqmz1
+found three, changing to 3
+found six, changing to 6
+after: t3hreezvmfl7vsdrthsdsjs6ix9mbrqqmz1
+before: boneight8onelrtjkj
+found one, changing to 1
+found one, changing to 1
+found eight, changing to 8
+after: bo1ne8ight8o1nelrtjkj
+before: tqxbbceight9rqbthreek
+found three, changing to 3
+found eight, changing to 8
+after: tqxbbce8ight9rqbt3hreek
+before: 3h32nklscdkfhtztwontprj
+found two, changing to 2
+after: 3h32nklscdkfhtzt2wontprj
+before: 2threesix
+found three, changing to 3
+found six, changing to 6
+after: 2t3hrees6ix
+before: qkzmpvkvsixxfzlrfrgv682
+found six, changing to 6
+after: qkzmpvkvs6ixxfzlrfrgv682
+before: 3seven6mvkeight2fourvhvvqone
+found one, changing to 1
+found four, changing to 4
+found seven, changing to 7
+found eight, changing to 8
+after: 3s7even6mvke8ight2f4ourvhvvqo1ne
+before: three389sixeight
+found three, changing to 3
+found six, changing to 6
+found eight, changing to 8
+after: t3hree389s6ixe8ight
+before: bx664nine
+found nine, changing to 9
+after: bx664n9ine
+before: nine82rcdvqtj91dbffscng4
+found nine, changing to 9
+after: n9ine82rcdvqtj91dbffscng4
+before: 2sixsixtbqhvcndjtcvrrbtdzsxrlrvdxjtd7fzdtlrhlxvbpvhknmm
+found six, changing to 6
+found six, changing to 6
+after: 2s6ixs6ixtbqhvcndjtcvrrbtdzsxrlrvdxjtd7fzdtlrhlxvbpvhknmm
+before: 6zbpblsznhlzljtmstwothree28ngdcfkk
+found two, changing to 2
+found three, changing to 3
+after: 6zbpblsznhlzljtmst2wot3hree28ngdcfkk
+before: eight8nbfmdqlcvonenine
+found one, changing to 1
+found eight, changing to 8
+found nine, changing to 9
+after: e8ight8nbfmdqlcvo1nen9ine
+before: 8two4sx7rffstvxlq1seven4
+found two, changing to 2
+found seven, changing to 7
+after: 8t2wo4sx7rffstvxlq1s7even4
+before: gmzbd8nine5nine1one
+found one, changing to 1
+found nine, changing to 9
+found nine, changing to 9
+after: gmzbd8n9ine5n9ine1o1ne
+before: sevenfivezdfbn7six
+found five, changing to 5
+found six, changing to 6
+found seven, changing to 7
+after: s7evenf5ivezdfbn7s6ix
+before: 5892
+after: 5892
+before: ss9
+after: ss9
+before: 8xcvzgzkjcdg
+after: 8xcvzgzkjcdg
+before: 1seven7three
+found three, changing to 3
+found seven, changing to 7
+after: 1s7even7t3hree
+before: 8four1fourtwonezs
+found one, changing to 1
+found two, changing to 2
+found four, changing to 4
+found four, changing to 4
+after: 8f4our1f4ourt2wo1nezs
+before: hnjzk8
+after: hnjzk8
+before: xfour5mrj
+found four, changing to 4
+after: xf4our5mrj
+before: vnkspgtkxspdtwofxlvtlkqpqcffxbqth13cll
+found two, changing to 2
+after: vnkspgtkxspdt2wofxlvtlkqpqcffxbqth13cll
+before: mmjkshtmtwofour1
+found two, changing to 2
+found four, changing to 4
+after: mmjkshtmt2wof4our1
+before: sixthree6
+found three, changing to 3
+found six, changing to 6
+after: s6ixt3hree6
+before: seven9mzmbkkrzsix5five
+found five, changing to 5
+found six, changing to 6
+found seven, changing to 7
+after: s7even9mzmbkkrzs6ix5f5ive
+before: 9cbrsqjlhntpzfivegmgn1six
+found five, changing to 5
+found six, changing to 6
+after: 9cbrsqjlhntpzf5ivegmgn1s6ix
+before: bdbnlrdpsninenine3twotwocpvjd3
+found two, changing to 2
+found two, changing to 2
+found nine, changing to 9
+found nine, changing to 9
+after: bdbnlrdpsn9inen9ine3t2wot2wocpvjd3
+before: twonine193
+found two, changing to 2
+found nine, changing to 9
+after: t2won9ine193
+before: twothree1twor8cmtxtd
+found two, changing to 2
+found two, changing to 2
+found three, changing to 3
+after: t2wot3hree1t2wor8cmtxtd
+before: bvgtninevfrjs6
+found nine, changing to 9
+after: bvgtn9inevfrjs6
+before: eightsix8
+found six, changing to 6
+found eight, changing to 8
+after: e8ights6ix8
+before: sixfbzsxfjtfv8
+found six, changing to 6
+after: s6ixfbzsxfjtfv8
+before: 5onethreeone
+found one, changing to 1
+found one, changing to 1
+found three, changing to 3
+after: 5o1net3hreeo1ne
+before: dgzcksnqz8foursix
+found four, changing to 4
+found six, changing to 6
+after: dgzcksnqz8f4ours6ix
+before: 9onetsrtwotwothreerbv
+found one, changing to 1
+found two, changing to 2
+found two, changing to 2
+found three, changing to 3
+after: 9o1netsrt2wot2wot3hreerbv
+before: 4dnzc8
+after: 4dnzc8
+before: fivenine4sjzsdgvdqsix3511
+found five, changing to 5
+found six, changing to 6
+found nine, changing to 9
+after: f5iven9ine4sjzsdgvdqs6ix3511
+before: 7twofivefivefourqdgpmfblgv
+found two, changing to 2
+found four, changing to 4
+found five, changing to 5
+found five, changing to 5
+after: 7t2wof5ivef5ivef4ourqdgpmfblgv
+before: oneonelgjsk9
+found one, changing to 1
+found one, changing to 1
+after: o1neo1nelgjsk9
+before: zcfhrrpseven8tlffkfnineeightttwoknlfdjpj
+found two, changing to 2
+found seven, changing to 7
+found eight, changing to 8
+found nine, changing to 9
+after: zcfhrrps7even8tlffkfn9inee8ighttt2woknlfdjpj
+before: nine5nine
+found nine, changing to 9
+found nine, changing to 9
+after: n9ine5n9ine
+before: 8sixtwotwooneoneeightcdklzjgvnqrsvvkbtfj
+found one, changing to 1
+found one, changing to 1
+found two, changing to 2
+found two, changing to 2
+found six, changing to 6
+found eight, changing to 8
+after: 8s6ixt2wot2woo1neo1nee8ightcdklzjgvnqrsvvkbtfj
+before: 7one9vxjdkbhqmfbpt
+found one, changing to 1
+after: 7o1ne9vxjdkbhqmfbpt
+before: 6twoeighttwo
+found two, changing to 2
+found two, changing to 2
+found eight, changing to 8
+after: 6t2woe8ightt2wo
+before: sixthreesix162
+found three, changing to 3
+found six, changing to 6
+found six, changing to 6
+after: s6ixt3hrees6ix162
+before: 5jhxxchf69twosxjckh5
+found two, changing to 2
+after: 5jhxxchf69t2wosxjckh5
+before: sevenxspmvxpmc788one
+found one, changing to 1
+found seven, changing to 7
+after: s7evenxspmvxpmc788o1ne
+before: 9fseven4
+found seven, changing to 7
+after: 9fs7even4
+before: vxzqgxbmtgxnm588seventwoqtmfsb9
+found two, changing to 2
+found seven, changing to 7
+after: vxzqgxbmtgxnm588s7event2woqtmfsb9
+before: four8nine4ftn5
+found four, changing to 4
+found nine, changing to 9
+after: f4our8n9ine4ftn5
+before: eighteightrhjzcmxql28four
+found four, changing to 4
+found eight, changing to 8
+found eight, changing to 8
+after: e8ighte8ightrhjzcmxql28f4our
+before: twogqjdbmmxqgtxdppchr2xxhcptq2mrvgsdccs
+found two, changing to 2
+after: t2wogqjdbmmxqgtxdppchr2xxhcptq2mrvgsdccs
+before: six24
+found six, changing to 6
+after: s6ix24
+before: nqdptone3drgtwoone8
+found one, changing to 1
+found one, changing to 1
+found two, changing to 2
+after: nqdpto1ne3drgt2woo1ne8
+before: threesixnine8hlkrj
+found three, changing to 3
+found six, changing to 6
+found nine, changing to 9
+after: t3hrees6ixn9ine8hlkrj
+before: four7pvvljkscc6hvsppgxrsixknrnrvfjqqfive
+found four, changing to 4
+found five, changing to 5
+found six, changing to 6
+after: f4our7pvvljkscc6hvsppgxrs6ixknrnrvfjqqf5ive
+before: 7tdnbzqqxftqtxjqxgmbdhbvsqdone22drc
+found one, changing to 1
+after: 7tdnbzqqxftqtxjqxgmbdhbvsqdo1ne22drc
+before: 59rqhzrfrps
+after: 59rqhzrfrps
+before: six1scbkqjd4
+found six, changing to 6
+after: s6ix1scbkqjd4
+before: 89blbn
+after: 89blbn
+before: lqhoneightthree96tppmhtpmlt7
+found one, changing to 1
+found three, changing to 3
+found eight, changing to 8
+after: lqho1ne8ightt3hree96tppmhtpmlt7
+before: threeqpnsevengfx3
+found three, changing to 3
+found seven, changing to 7
+after: t3hreeqpns7evengfx3
+before: sixk27lfjrvhvtsixtwo
+found two, changing to 2
+found six, changing to 6
+found six, changing to 6
+after: s6ixk27lfjrvhvts6ixt2wo
+before: four5slf8onefournine5
+found one, changing to 1
+found four, changing to 4
+found four, changing to 4
+found nine, changing to 9
+after: f4our5slf8o1nef4ourn9ine5
+before: ninehgczrdslkstltfive96bqtz5
+found five, changing to 5
+found nine, changing to 9
+after: n9inehgczrdslkstltf5ive96bqtz5
+before: scfkzsr4fournine325
+found four, changing to 4
+found nine, changing to 9
+after: scfkzsr4f4ourn9ine325
+before: 5eighthzn9rjdzxllvg
+found eight, changing to 8
+after: 5e8ighthzn9rjdzxllvg
+before: 1six1threedrfpflhqfour64
+found three, changing to 3
+found four, changing to 4
+found six, changing to 6
+after: 1s6ix1t3hreedrfpflhqf4our64
+before: fivekdtgcdsjxone8nine
+found one, changing to 1
+found five, changing to 5
+found nine, changing to 9
+after: f5ivekdtgcdsjxo1ne8n9ine
+before: 7sevensevenhronepdgbxvfd5
+found one, changing to 1
+found seven, changing to 7
+found seven, changing to 7
+after: 7s7evens7evenhro1nepdgbxvfd5
+before: 619nine6threetwo6
+found two, changing to 2
+found three, changing to 3
+found nine, changing to 9
+after: 619n9ine6t3hreet2wo6
+before: fivehchdssjrlshfqjlptsxghzrcsfcglm4
+found five, changing to 5
+after: f5ivehchdssjrlshfqjlptsxghzrcsfcglm4
+before: 6two73smnqbbmsix
+found two, changing to 2
+found six, changing to 6
+after: 6t2wo73smnqbbms6ix
+before: 84fivermpjpjgkn
+found five, changing to 5
+after: 84f5ivermpjpjgkn
+before: oneeighteightfhjtxbjc94threefrnnnncdz
+found one, changing to 1
+found three, changing to 3
+found eight, changing to 8
+found eight, changing to 8
+after: o1nee8ighte8ightfhjtxbjc94t3hreefrnnnncdz
+before: lrckglbdn94eightqbfxp
+found eight, changing to 8
+after: lrckglbdn94e8ightqbfxp
+before: mtztmbhthzone26sixgjvnbzsjfmthreevqdqrld
+found one, changing to 1
+found three, changing to 3
+found six, changing to 6
+after: mtztmbhthzo1ne26s6ixgjvnbzsjfmt3hreevqdqrld
+before: pnrtpgzcnznfive3eightwogkq
+found two, changing to 2
+found five, changing to 5
+found eight, changing to 8
+after: pnrtpgzcnznf5ive3e8ight2wogkq
+before: threevfpkrjddtpszxddckhftt6txkszsbxnn
+found three, changing to 3
+after: t3hreevfpkrjddtpszxddckhftt6txkszsbxnn
+before: ninecxdtmdnineseveneight5fivesd
+found five, changing to 5
+found seven, changing to 7
+found eight, changing to 8
+found nine, changing to 9
+found nine, changing to 9
+after: n9inecxdtmdn9ines7evene8ight5f5ivesd
+before: xjvv7one
+found one, changing to 1
+after: xjvv7o1ne
+before: 5eightfiveseven
+found five, changing to 5
+found seven, changing to 7
+found eight, changing to 8
+after: 5e8ightf5ives7even
+before: twodpfdzvqmpzmvs7tpjnpmv5
+found two, changing to 2
+after: t2wodpfdzvqmpzmvs7tpjnpmv5
+before: 75fivethreesixsfqpzdonefive4
+found one, changing to 1
+found three, changing to 3
+found five, changing to 5
+found five, changing to 5
+found six, changing to 6
+after: 75f5ivet3hrees6ixsfqpzdo1nef5ive4
+before: 4onefive6bsvtplblfbmnjjlb
+found one, changing to 1
+found five, changing to 5
+after: 4o1nef5ive6bsvtplblfbmnjjlb
+before: eight75one73pjgdqq
+found one, changing to 1
+found eight, changing to 8
+after: e8ight75o1ne73pjgdqq
+before: ntcnmnkvjzpvxpmb7twokqfour1
+found two, changing to 2
+found four, changing to 4
+after: ntcnmnkvjzpvxpmb7t2wokqf4our1
+before: zd1sevenmgdrgrzvvh
+found seven, changing to 7
+after: zd1s7evenmgdrgrzvvh
+before: 65four
+found four, changing to 4
+after: 65f4our
+before: 3kzfztjxjbseven67bnfcntfknlxlv
+found seven, changing to 7
+after: 3kzfztjxjbs7even67bnfcntfknlxlv
+before: eightfive8xnnkeightfive
+found five, changing to 5
+found five, changing to 5
+found eight, changing to 8
+found eight, changing to 8
+after: e8ightf5ive8xnnke8ightf5ive
+before: 6three95eighttwonineonevkrtwonebgs
+found one, changing to 1
+found one, changing to 1
+found two, changing to 2
+found two, changing to 2
+found three, changing to 3
+found eight, changing to 8
+found nine, changing to 9
+after: 6t3hree95e8ightt2won9ineo1nevkrt2wo1nebgs
+before: 92seven2cndf
+found seven, changing to 7
+after: 92s7even2cndf
+before: onezxphkcrsix7klrhnhdcxrpz
+found one, changing to 1
+found six, changing to 6
+after: o1nezxphkcrs6ix7klrhnhdcxrpz
+before: mgl8ldbxzdlgtwo6cdvxbp
+found two, changing to 2
+after: mgl8ldbxzdlgt2wo6cdvxbp
+before: foursix7lzcddxnjdrfqtthree7six
+found three, changing to 3
+found four, changing to 4
+found six, changing to 6
+found six, changing to 6
+after: f4ours6ix7lzcddxnjdrfqtt3hree7s6ix
+before: hxheightwoncdcrkczbninefour3lfdtgnqgcnbfxbqlnt
+found two, changing to 2
+found four, changing to 4
+found eight, changing to 8
+found nine, changing to 9
+after: hxhe8ight2woncdcrkczbn9inef4our3lfdtgnqgcnbfxbqlnt
+before: 2pmcvctfml1one92
+found one, changing to 1
+after: 2pmcvctfml1o1ne92
+before: nineone9eight
+found one, changing to 1
+found eight, changing to 8
+found nine, changing to 9
+after: n9ineo1ne9e8ight
+before: 6crppdpp4cmngqseven3mmv
+found seven, changing to 7
+after: 6crppdpp4cmngqs7even3mmv
+before: 473sevensqpvvhfdrfiventgvmvrhtqx
+found five, changing to 5
+found seven, changing to 7
+after: 473s7evensqpvvhfdrf5iventgvmvrhtqx
+before: gpnzc1rmfxqgj8nine271
+found nine, changing to 9
+after: gpnzc1rmfxqgj8n9ine271
+before: 84sixtwo
+found two, changing to 2
+found six, changing to 6
+after: 84s6ixt2wo
+before: frcrtsqhfour3threefivesix
+found three, changing to 3
+found four, changing to 4
+found five, changing to 5
+found six, changing to 6
+after: frcrtsqhf4our3t3hreef5ives6ix
+before: bhcvf6
+after: bhcvf6
+before: seven2seveneightzqmdqhb9
+found seven, changing to 7
+found seven, changing to 7
+found eight, changing to 8
+after: s7even2s7evene8ightzqmdqhb9
+before: 28hjjrgqklqgbm
+after: 28hjjrgqklqgbm
+before: 98three
+found three, changing to 3
+after: 98t3hree
+before: jqzjntlc541
+after: jqzjntlc541
+before: oneq22
+found one, changing to 1
+after: o1neq22
+before: 7fc92ljfmqt19
+after: 7fc92ljfmqt19
+before: sixzpzkgfiveonezjvrzfdcf43lbqxqseven
+found one, changing to 1
+found five, changing to 5
+found six, changing to 6
+found seven, changing to 7
+after: s6ixzpzkgf5iveo1nezjvrzfdcf43lbqxqs7even
+before: 1two4kfxglzcdjc3dpvb
+found two, changing to 2
+after: 1t2wo4kfxglzcdjc3dpvb
+before: fivembfkfdq6
+found five, changing to 5
+after: f5ivembfkfdq6
+before: nplrclbrbf5ks6five4hzzbsnine
+found five, changing to 5
+found nine, changing to 9
+after: nplrclbrbf5ks6f5ive4hzzbsn9ine
+before: 3mkmbgxhn
+after: 3mkmbgxhn
+before: seven9d
+found seven, changing to 7
+after: s7even9d
+before: vnfj8qng
+after: vnfj8qng
+before: eightrgtjpdjjktwo1lphnlrtjfxtvghhbncj2two
+found two, changing to 2
+found two, changing to 2
+found eight, changing to 8
+after: e8ightrgtjpdjjkt2wo1lphnlrtjfxtvghhbncj2t2wo
+before: eight66frbpds5g
+found eight, changing to 8
+after: e8ight66frbpds5g
+before: 3one8four9two5
+found one, changing to 1
+found two, changing to 2
+found four, changing to 4
+after: 3o1ne8f4our9t2wo5
+before: 9ninefouronefcckhcdfb1mnmdsltdrsix
+found one, changing to 1
+found four, changing to 4
+found six, changing to 6
+found nine, changing to 9
+after: 9n9inef4ouro1nefcckhcdfb1mnmdsltdrs6ix
+before: eightsvsix122241
+found six, changing to 6
+found eight, changing to 8
+after: e8ightsvs6ix122241
+before: 3fgpmgxcdqfourkhnrptlktrchfqbxcbbcxvjgznfjkj
+found four, changing to 4
+after: 3fgpmgxcdqf4ourkhnrptlktrchfqbxcbbcxvjgznfjkj
+before: eighthbhsgrqkgcxtwofour2nzj
+found two, changing to 2
+found four, changing to 4
+found eight, changing to 8
+after: e8ighthbhsgrqkgcxt2wof4our2nzj
+before: 93xnjrphktk6vshpvnftblggghskg34
+after: 93xnjrphktk6vshpvnftblggghskg34
+before: seven2sixsdvmcfgq64
+found six, changing to 6
+found seven, changing to 7
+after: s7even2s6ixsdvmcfgq64
+before: twothreefive3hrmkbmrskcvknineninebnjksp
+found two, changing to 2
+found three, changing to 3
+found five, changing to 5
+found nine, changing to 9
+found nine, changing to 9
+after: t2wot3hreef5ive3hrmkbmrskcvkn9inen9inebnjksp
+before: 82fourninetwothree8
+found two, changing to 2
+found three, changing to 3
+found four, changing to 4
+found nine, changing to 9
+after: 82f4ourn9inet2wot3hree8
+before: 2two158threeninesix
+found two, changing to 2
+found three, changing to 3
+found six, changing to 6
+found nine, changing to 9
+after: 2t2wo158t3hreen9ines6ix
+before: hgltdx48onetwofvnsmmsdzjthree
+found one, changing to 1
+found two, changing to 2
+found three, changing to 3
+after: hgltdx48o1net2wofvnsmmsdzjt3hree
+before: k38
+after: k38
+before: ninenine4sixctnznsb3tkpx
+found six, changing to 6
+found nine, changing to 9
+found nine, changing to 9
+after: n9inen9ine4s6ixctnznsb3tkpx
+before: pvfzqtgpntnfhfp47rhllqrlx22
+after: pvfzqtgpntnfhfp47rhllqrlx22
+before: 815qxtrghrsg
+after: 815qxtrghrsg
+before: 5vhfourvdblpninemdzbbgmvsfone
+found one, changing to 1
+found four, changing to 4
+found nine, changing to 9
+after: 5vhf4ourvdblpn9inemdzbbgmvsfo1ne
+before: nine8nine6four
+found four, changing to 4
+found nine, changing to 9
+found nine, changing to 9
+after: n9ine8n9ine6f4our
+before: threebcbsmxbks2two5twon
+found two, changing to 2
+found two, changing to 2
+found three, changing to 3
+after: t3hreebcbsmxbks2t2wo5t2won
+before: kzpsc74qxflxpsix6jgmzgqxvsngc
+found six, changing to 6
+after: kzpsc74qxflxps6ix6jgmzgqxvsngc
+before: 7dbrsmpksixqttqsphqpd7twoeight
+found two, changing to 2
+found six, changing to 6
+found eight, changing to 8
+after: 7dbrsmpks6ixqttqsphqpd7t2woe8ight
+before: kffivefourdknzqsevenvkssgvhxf1
+found four, changing to 4
+found five, changing to 5
+found seven, changing to 7
+after: kff5ivef4ourdknzqs7evenvkssgvhxf1
+before: sixeight5sljd5fourxkkxv6
+found four, changing to 4
+found six, changing to 6
+found eight, changing to 8
+after: s6ixe8ight5sljd5f4ourxkkxv6
+before: rnsjsmfcbp4twofour
+found two, changing to 2
+found four, changing to 4
+after: rnsjsmfcbp4t2wof4our
+before: zdfour5pktmsmxf3
+found four, changing to 4
+after: zdf4our5pktmsmxf3
+before: threen42
+found three, changing to 3
+after: t3hreen42
+before: stgtphmjk7onexfour2foursrpj8
+found one, changing to 1
+found four, changing to 4
+found four, changing to 4
+after: stgtphmjk7o1nexf4our2f4oursrpj8
+before: pjbgtsevenseven7zzhgxlmz
+found seven, changing to 7
+found seven, changing to 7
+after: pjbgts7evens7even7zzhgxlmz
+before: sixeightfivefourseven9bpjbcmvkrfive
+found four, changing to 4
+found five, changing to 5
+found five, changing to 5
+found six, changing to 6
+found seven, changing to 7
+found eight, changing to 8
+after: s6ixe8ightf5ivef4ours7even9bpjbcmvkrf5ive
+before: hfhxfqlbqtwo4cdfksbbtlcsix
+found two, changing to 2
+found six, changing to 6
+after: hfhxfqlbqt2wo4cdfksbbtlcs6ix
+before: 778lkffbzmpdbxjbpfoursdbp
+found four, changing to 4
+after: 778lkffbzmpdbxjbpf4oursdbp
+before: tvpjnvtxeight1onefive3nvncq
+found one, changing to 1
+found five, changing to 5
+found eight, changing to 8
+after: tvpjnvtxe8ight1o1nef5ive3nvncq
+before: 38seven47
+found seven, changing to 7
+after: 38s7even47
+before: five8threexqtglzmpmvbzfour
+found three, changing to 3
+found four, changing to 4
+found five, changing to 5
+after: f5ive8t3hreexqtglzmpmvbzf4our
+before: nmtsjjfvfzbhpltbbsrjphrnxhr1two3sixvp
+found two, changing to 2
+found six, changing to 6
+after: nmtsjjfvfzbhpltbbsrjphrnxhr1t2wo3s6ixvp
+before: 4gbvkbfqrfgrbr85sixone
+found one, changing to 1
+found six, changing to 6
+after: 4gbvkbfqrfgrbr85s6ixo1ne
+before: 6mxqltfsxqxnpdrjkxhrp
+after: 6mxqltfsxqxnpdrjkxhrp
+before: lftdxbhhzvvhpone51six
+found one, changing to 1
+found six, changing to 6
+after: lftdxbhhzvvhpo1ne51s6ix
+before: 3grhbqf5one
+found one, changing to 1
+after: 3grhbqf5o1ne
+before: six9four94tthree
+found three, changing to 3
+found four, changing to 4
+found six, changing to 6
+after: s6ix9f4our94tt3hree
+before: sevenh1bdcgdtmjqhnkzxlkxsevenonecbx
+found one, changing to 1
+found seven, changing to 7
+found seven, changing to 7
+after: s7evenh1bdcgdtmjqhnkzxlkxs7eveno1necbx
+before: jvtwonecfksxckgq6
+found one, changing to 1
+found two, changing to 2
+after: jvt2wo1necfksxckgq6
+before: zvmjbthreecbpfdvd6
+found three, changing to 3
+after: zvmjbt3hreecbpfdvd6
+before: 6bsvrsevenbcbcgrrhpxtvbhhfp1
+found seven, changing to 7
+after: 6bsvrs7evenbcbcgrrhpxtvbhhfp1
+before: sevenfivemtmpcgml9mljnhcrdbfvksvlbpmvhs
+found five, changing to 5
+found seven, changing to 7
+after: s7evenf5ivemtmpcgml9mljnhcrdbfvksvlbpmvhs
+before: 8nine9
+found nine, changing to 9
+after: 8n9ine9
+before: mszqdg7jsrcckxn
+after: mszqdg7jsrcckxn
+before: eightseven9zzsixninexhscseventhree
+found three, changing to 3
+found six, changing to 6
+found seven, changing to 7
+found seven, changing to 7
+found eight, changing to 8
+found nine, changing to 9
+after: e8ights7even9zzs6ixn9inexhscs7event3hree
+before: eight57
+found eight, changing to 8
+after: e8ight57
+before: 4zjpjz26dxnzfb
+after: 4zjpjz26dxnzfb
+before: rmcnbnlpd3nine4gngphqfmc24
+found nine, changing to 9
+after: rmcnbnlpd3n9ine4gngphqfmc24
+before: 1vvgfxdfourprlmsjmvvtxnn8seven
+found four, changing to 4
+found seven, changing to 7
+after: 1vvgfxdf4ourprlmsjmvvtxnn8s7even
+before: nineonethree6zznkfrcgzvfour
+found one, changing to 1
+found three, changing to 3
+found four, changing to 4
+found nine, changing to 9
+after: n9ineo1net3hree6zznkfrcgzvf4our
+before: gcnjsdlhptwofourtwoonemggshpdh3eight
+found one, changing to 1
+found two, changing to 2
+found two, changing to 2
+found four, changing to 4
+found eight, changing to 8
+after: gcnjsdlhpt2wof4ourt2woo1nemggshpdh3e8ight
+before: 4eightfivenxftjch
+found five, changing to 5
+found eight, changing to 8
+after: 4e8ightf5ivenxftjch
+before: eightthreeseven94
+found three, changing to 3
+found seven, changing to 7
+found eight, changing to 8
+after: e8ightt3hrees7even94
+before: twokvtjgcq992
+found two, changing to 2
+after: t2wokvtjgcq992
+before: 69psqdmgbtljjzjmpsbs1fiveoneggjbbk
+found one, changing to 1
+found five, changing to 5
+after: 69psqdmgbtljjzjmpsbs1f5iveo1neggjbbk
+before: 3k
+after: 3k
+before: eightsix3seven4twosevenq7
+found two, changing to 2
+found six, changing to 6
+found seven, changing to 7
+found seven, changing to 7
+found eight, changing to 8
+after: e8ights6ix3s7even4t2wos7evenq7
+before: jlthbzsc2
+after: jlthbzsc2
+before: 22nine8jhmktwo5
+found two, changing to 2
+found nine, changing to 9
+after: 22n9ine8jhmkt2wo5
+before: 8pzmtnlfptpjckftzrzqsrxkkcc3
+after: 8pzmtnlfptpjckftzrzqsrxkkcc3
+before: four33jfxmhcdktzhqvmkxhklxjllx
+found four, changing to 4
+after: f4our33jfxmhcdktzhqvmkxhklxjllx
+before: nine3lqcsbmmh4f
+found nine, changing to 9
+after: n9ine3lqcsbmmh4f
+before: three514twonellp
+found one, changing to 1
+found two, changing to 2
+found three, changing to 3
+after: t3hree514t2wo1nellp
+before: 4qhn5
+after: 4qhn5
+before: sixbmkxqdgtkbcghvpzonecfmgkpfrxv68six
+found one, changing to 1
+found six, changing to 6
+found six, changing to 6
+after: s6ixbmkxqdgtkbcghvpzo1necfmgkpfrxv68s6ix
+before: 6threeeightjhfsmp8mpvhrjcxzsevenone
+found one, changing to 1
+found three, changing to 3
+found seven, changing to 7
+found eight, changing to 8
+after: 6t3hreee8ightjhfsmp8mpvhrjcxzs7eveno1ne
+before: sevens9two37fjdfrnk
+found two, changing to 2
+found seven, changing to 7
+after: s7evens9t2wo37fjdfrnk
+before: jhzpvfldrbmmmglvrkz2ninelbgpdlpdcteight
+found eight, changing to 8
+found nine, changing to 9
+after: jhzpvfldrbmmmglvrkz2n9inelbgpdlpdcte8ight
+before: qj9
+after: qj9
+before: rxfhkkvheightfouronejh8238
+found one, changing to 1
+found four, changing to 4
+found eight, changing to 8
+after: rxfhkkvhe8ightf4ouro1nejh8238
+before: zfsixvbqngj1vhbvxpfk6
+found six, changing to 6
+after: zfs6ixvbqngj1vhbvxpfk6
+before: vjbqvcm3
+after: vjbqvcm3
+before: 51six38ngvq42three
+found three, changing to 3
+found six, changing to 6
+after: 51s6ix38ngvq42t3hree
+before: 7zjtcczjz79seven
+found seven, changing to 7
+after: 7zjtcczjz79s7even
+before: five8fivexxmrn
+found five, changing to 5
+found five, changing to 5
+after: f5ive8f5ivexxmrn
+before: sixseventhree3sixcsk
+found three, changing to 3
+found six, changing to 6
+found six, changing to 6
+found seven, changing to 7
+after: s6ixs7event3hree3s6ixcsk
+before: zninefour8tworxkfb48
+found two, changing to 2
+found four, changing to 4
+found nine, changing to 9
+after: zn9inef4our8t2worxkfb48
+before: 63nine3
+found nine, changing to 9
+after: 63n9ine3
+before: 11eight
+found eight, changing to 8
+after: 11e8ight
+before: bxlgdzqthree2ninegqn6kvktfts8
+found three, changing to 3
+found nine, changing to 9
+after: bxlgdzqt3hree2n9inegqn6kvktfts8
+before: tvmzzlpnineztxdbkxgthree1four1
+found three, changing to 3
+found four, changing to 4
+found nine, changing to 9
+after: tvmzzlpn9ineztxdbkxgt3hree1f4our1
+before: gxcnhxone9
+found one, changing to 1
+after: gxcnhxo1ne9
+before: 8eightfive5jkqx
+found five, changing to 5
+found eight, changing to 8
+after: 8e8ightf5ive5jkqx
+before: qcfgbpgdveighteightone7seven
+found one, changing to 1
+found seven, changing to 7
+found eight, changing to 8
+found eight, changing to 8
+after: qcfgbpgdve8ighte8ighto1ne7s7even
+before: 86eight2five
+found five, changing to 5
+found eight, changing to 8
+after: 86e8ight2f5ive
+before: tftbbfpsvhtwo8eight8seventwo2
+found two, changing to 2
+found two, changing to 2
+found seven, changing to 7
+found eight, changing to 8
+after: tftbbfpsvht2wo8e8ight8s7event2wo2
+before: skfp8
+after: skfp8
+before: 8hdlhh4ninenxllmthreefivebhslxkvtcp
+found three, changing to 3
+found five, changing to 5
+found nine, changing to 9
+after: 8hdlhh4n9inenxllmt3hreef5ivebhslxkvtcp
+before: sixbmljnmhseven4sevenmsfbsbqlzrrseven3
+found six, changing to 6
+found seven, changing to 7
+found seven, changing to 7
+found seven, changing to 7
+after: s6ixbmljnmhs7even4s7evenmsfbsbqlzrrs7even3
+before: v1828
+after: v1828
+before: 6seven53hhtj
+found seven, changing to 7
+after: 6s7even53hhtj
+before: five51lkfsrm2
+found five, changing to 5
+after: f5ive51lkfsrm2
+before: bvnrdvjnxjbfv9prx
+after: bvnrdvjnxjbfv9prx
+before: tqbnxeight6hztrsbvronethreethreeqvh
+found one, changing to 1
+found three, changing to 3
+found three, changing to 3
+found eight, changing to 8
+after: tqbnxe8ight6hztrsbvro1net3hreet3hreeqvh
+before: pcbjr3cjhrqxbcvpzdmfive6oneightgt
+found one, changing to 1
+found five, changing to 5
+found eight, changing to 8
+after: pcbjr3cjhrqxbcvpzdmf5ive6o1ne8ightgt
+before: qdeightl6four
+found four, changing to 4
+found eight, changing to 8
+after: qde8ightl6f4our
+before: ncprx96ninegn3
+found nine, changing to 9
+after: ncprx96n9inegn3
+before: sevenb4eightwonr
+found two, changing to 2
+found seven, changing to 7
+found eight, changing to 8
+after: s7evenb4e8ight2wonr
+before: qbslkmkqlf8ztzeightpcn
+found eight, changing to 8
+after: qbslkmkqlf8ztze8ightpcn
+before: fiveeightcpn7hvxmtpcsbqfvpnmvgncfbpxzhfive
+found five, changing to 5
+found five, changing to 5
+found eight, changing to 8
+after: f5ivee8ightcpn7hvxmtpcsbqfvpnmvgncfbpxzhf5ive
+before: 3rxxcqhlp4five
+found five, changing to 5
+after: 3rxxcqhlp4f5ive
+before: threefouronevdbdmktp17
+found one, changing to 1
+found three, changing to 3
+found four, changing to 4
+after: t3hreef4ouro1nevdbdmktp17
+before: sixdtmnlhth9onefive
+found one, changing to 1
+found five, changing to 5
+found six, changing to 6
+after: s6ixdtmnlhth9o1nef5ive
+before: fouronelxgxpvtmseven2ninesix
+found one, changing to 1
+found four, changing to 4
+found six, changing to 6
+found seven, changing to 7
+found nine, changing to 9
+after: f4ouro1nelxgxpvtms7even2n9ines6ix
+before: eightrfxrkcfive21ftlcgdcrmbsnrr
+found five, changing to 5
+found eight, changing to 8
+after: e8ightrfxrkcf5ive21ftlcgdcrmbsnrr
+before: nine1fourfourxkppvqrxfdhsdphjcgnhnfnzlld
+found four, changing to 4
+found four, changing to 4
+found nine, changing to 9
+after: n9ine1f4ourf4ourxkppvqrxfdhsdphjcgnhnfnzlld
+before: 562
+after: 562
+before: 4sixhj4eightzkbfpdrtzcsp2
+found six, changing to 6
+found eight, changing to 8
+after: 4s6ixhj4e8ightzkbfpdrtzcsp2
+before: ddfdbdqzfshfxnseven6onetwo2
+found one, changing to 1
+found two, changing to 2
+found seven, changing to 7
+after: ddfdbdqzfshfxns7even6o1net2wo2
+before: five915b3
+found five, changing to 5
+after: f5ive915b3
+before: sghrbfzmmrrbnone9four5rkmqgh
+found one, changing to 1
+found four, changing to 4
+after: sghrbfzmmrrbno1ne9f4our5rkmqgh
+before: threedmmsdvgs6twotwochp
+found two, changing to 2
+found two, changing to 2
+found three, changing to 3
+after: t3hreedmmsdvgs6t2wot2wochp
+before: seven1fivesixnine9four
+found four, changing to 4
+found five, changing to 5
+found six, changing to 6
+found seven, changing to 7
+found nine, changing to 9
+after: s7even1f5ives6ixn9ine9f4our
+before: 6dvmgsjcfour3q
+found four, changing to 4
+after: 6dvmgsjcf4our3q
+before: cschsrvz3nkk
+after: cschsrvz3nkk
+before: 4fnqmnd4rnxbjvcbxpchfour
+found four, changing to 4
+after: 4fnqmnd4rnxbjvcbxpchf4our
+before: 3eight9
+found eight, changing to 8
+after: 3e8ight9
+before: tboneninerzhsgqqcxd2gxhm2mhdpkjeight
+found one, changing to 1
+found eight, changing to 8
+found nine, changing to 9
+after: tbo1nen9inerzhsgqqcxd2gxhm2mhdpkje8ight
+before: vpsbgmzbjk6nineeight
+found eight, changing to 8
+found nine, changing to 9
+after: vpsbgmzbjk6n9inee8ight
+before: sixsjbzldfive6
+found five, changing to 5
+found six, changing to 6
+after: s6ixsjbzldf5ive6
+before: qjprfk1eight7vbdshhnfive59
+found five, changing to 5
+found eight, changing to 8
+after: qjprfk1e8ight7vbdshhnf5ive59
+before: dbxdgt6
+after: dbxdgt6
+before: pdgghktdjhsxnblgpzmtc24onecmctldqtsc
+found one, changing to 1
+after: pdgghktdjhsxnblgpzmtc24o1necmctldqtsc
+before: bgfzght2szvttsdndfiveqgns3
+found five, changing to 5
+after: bgfzght2szvttsdndf5iveqgns3
+before: 6ninebdnbxzmeightfivevff8pdllfour
+found four, changing to 4
+found five, changing to 5
+found eight, changing to 8
+found nine, changing to 9
+after: 6n9inebdnbxzme8ightf5ivevff8pdllf4our
+before: four2nineeightvfeighttwo
+found two, changing to 2
+found four, changing to 4
+found eight, changing to 8
+found eight, changing to 8
+found nine, changing to 9
+after: f4our2n9inee8ightvfe8ightt2wo
+before: fiveone3sevenhfqnfbjg3five
+found one, changing to 1
+found five, changing to 5
+found five, changing to 5
+found seven, changing to 7
+after: f5iveo1ne3s7evenhfqnfbjg3f5ive
+before: eight19two
+found two, changing to 2
+found eight, changing to 8
+after: e8ight19t2wo
+before: fqkeightwosvszgpjvbl2xtmgmc6128six
+found two, changing to 2
+found six, changing to 6
+found eight, changing to 8
+after: fqke8ight2wosvszgpjvbl2xtmgmc6128s6ix
+before: 6five6one24fivemcgpx
+found one, changing to 1
+found five, changing to 5
+found five, changing to 5
+after: 6f5ive6o1ne24f5ivemcgpx
+before: pmvrz6threemlhoneightdjf
+found one, changing to 1
+found three, changing to 3
+found eight, changing to 8
+after: pmvrz6t3hreemlho1ne8ightdjf
+before: 7cxrgxx53gksgdsv9
+after: 7cxrgxx53gksgdsv9
+before: six3two
+found two, changing to 2
+found six, changing to 6
+after: s6ix3t2wo
+before: nfqffqrvkvhqfzthgxp3fivesix7gb
+found five, changing to 5
+found six, changing to 6
+after: nfqffqrvkvhqfzthgxp3f5ives6ix7gb
+before: nlqdkgllxdvgj8xdhdfnnnfive
+found five, changing to 5
+after: nlqdkgllxdvgj8xdhdfnnnf5ive
+before: fournine1nineseven
+found four, changing to 4
+found seven, changing to 7
+found nine, changing to 9
+found nine, changing to 9
+after: f4ourn9ine1n9ines7even
+before: four35djzxvsvvdfxbnhsixfouroneseven
+found one, changing to 1
+found four, changing to 4
+found four, changing to 4
+found six, changing to 6
+found seven, changing to 7
+after: f4our35djzxvsvvdfxbnhs6ixf4ouro1nes7even
+before: 9fourhntsmprtddm
+found four, changing to 4
+after: 9f4ourhntsmprtddm
+before: fourfsix81sixvxmz8eight
+found four, changing to 4
+found six, changing to 6
+found six, changing to 6
+found eight, changing to 8
+after: f4ourfs6ix81s6ixvxmz8e8ight
+before: 3pqngffjxqpntqtl8zz4
+after: 3pqngffjxqpntqtl8zz4
+before: five325ninemfqxnseven1
+found five, changing to 5
+found seven, changing to 7
+found nine, changing to 9
+after: f5ive325n9inemfqxns7even1
+before: 1one2gqx3
+found one, changing to 1
+after: 1o1ne2gqx3
+before: hqsfive67rr3q4
+found five, changing to 5
+after: hqsf5ive67rr3q4
+before: onefblnbfvzlzthreenine1
+found one, changing to 1
+found three, changing to 3
+found nine, changing to 9
+after: o1nefblnbfvzlzt3hreen9ine1
+before: 96zsvdl2
+after: 96zsvdl2
+before: 1fourjjhf1tn18
+found four, changing to 4
+after: 1f4ourjjhf1tn18
+before: sixfdpljnbpzxlvhncjs9threefckbgtcm
+found three, changing to 3
+found six, changing to 6
+after: s6ixfdpljnbpzxlvhncjs9t3hreefckbgtcm
+before: seven6ffmvnnmxl8fxskzvpfs
+found seven, changing to 7
+after: s7even6ffmvnnmxl8fxskzvpfs
+before: 5tgbqdkfive
+found five, changing to 5
+after: 5tgbqdkf5ive
+before: 52czvkbqgztwo17ninesix
+found two, changing to 2
+found six, changing to 6
+found nine, changing to 9
+after: 52czvkbqgzt2wo17n9ines6ix
+before: bmshtrzdcmkfour5
+found four, changing to 4
+after: bmshtrzdcmkf4our5
+before: nrfn25one
+found one, changing to 1
+after: nrfn25o1ne
+before: 9two4plklcqzjftj7
+found two, changing to 2
+after: 9t2wo4plklcqzjftj7
+before: onedks4five6hdllqssixbssl
+found one, changing to 1
+found five, changing to 5
+found six, changing to 6
+after: o1nedks4f5ive6hdllqss6ixbssl
+before: 2xftcfnd2twotwo
+found two, changing to 2
+found two, changing to 2
+after: 2xftcfnd2t2wot2wo
+before: rzxzkcdtnmsbhnncltpj62
+after: rzxzkcdtnmsbhnncltpj62
+before: 6snszfour
+found four, changing to 4
+after: 6snszf4our
+before: 398seven58
+found seven, changing to 7
+after: 398s7even58
+before: vstfive8869
+found five, changing to 5
+after: vstf5ive8869
+before: 1fivesevenvgjrlqqlthjz1
+found five, changing to 5
+found seven, changing to 7
+after: 1f5ives7evenvgjrlqqlthjz1
+before: tpg7eightseven
+found seven, changing to 7
+found eight, changing to 8
+after: tpg7e8ights7even
+before: gqvpptsix356
+found six, changing to 6
+after: gqvppts6ix356
+before: 7nineone9fournineeight
+found one, changing to 1
+found four, changing to 4
+found eight, changing to 8
+found nine, changing to 9
+found nine, changing to 9
+after: 7n9ineo1ne9f4ourn9inee8ight
+before: tr1threenine
+found three, changing to 3
+found nine, changing to 9
+after: tr1t3hreen9ine
+before: tvz8xconeightfz
+found one, changing to 1
+found eight, changing to 8
+after: tvz8xco1ne8ightfz
+before: two11five1nine
+found two, changing to 2
+found five, changing to 5
+found nine, changing to 9
+after: t2wo11f5ive1n9ine
+before: jntkxfvt2threegseven3
+found three, changing to 3
+found seven, changing to 7
+after: jntkxfvt2t3hreegs7even3
+before: b69ztbtgmqfntdnine4two4
+found two, changing to 2
+found nine, changing to 9
+after: b69ztbtgmqfntdn9ine4t2wo4
+before: threedsgrrfcpzpfivebrpjhzfhs96gxmfhkhfive3
+found three, changing to 3
+found five, changing to 5
+found five, changing to 5
+after: t3hreedsgrrfcpzpf5ivebrpjhzfhs96gxmfhkhf5ive3
+before: eighteightthree5crdbzgqvtxx6two
+found two, changing to 2
+found three, changing to 3
+found eight, changing to 8
+found eight, changing to 8
+after: e8ighte8ightt3hree5crdbzgqvtxx6t2wo
+before: nine4onepxjtmbhrpklmlhcfspxrjdnd
+found one, changing to 1
+found nine, changing to 9
+after: n9ine4o1nepxjtmbhrpklmlhcfspxrjdnd
+before: 7fivetpttvnmgzd
+found five, changing to 5
+after: 7f5ivetpttvnmgzd
+before: 8lmddfzjeightxxvvcvp
+found eight, changing to 8
+after: 8lmddfzje8ightxxvvcvp
+before: loneight1three4dmzxqncjbninerbsrjxxlsb
+found one, changing to 1
+found three, changing to 3
+found eight, changing to 8
+found nine, changing to 9
+after: lo1ne8ight1t3hree4dmzxqncjbn9inerbsrjxxlsb
+before: 657fourdjkhrlxjdp3ninepvlqhz
+found four, changing to 4
+found nine, changing to 9
+after: 657f4ourdjkhrlxjdp3n9inepvlqhz
+before: three4threekddjrfsdk3
+found three, changing to 3
+found three, changing to 3
+after: t3hree4t3hreekddjrfsdk3
+before: 8xbjcnsjq89
+after: 8xbjcnsjq89
+before: six8ninesixfourpcsfhnsxgrz
+found four, changing to 4
+found six, changing to 6
+found six, changing to 6
+found nine, changing to 9
+after: s6ix8n9ines6ixf4ourpcsfhnsxgrz
+before: 8twosixmvhmsps3
+found two, changing to 2
+found six, changing to 6
+after: 8t2wos6ixmvhmsps3
+before: six9sixeight
+found six, changing to 6
+found six, changing to 6
+found eight, changing to 8
+after: s6ix9s6ixe8ight
+before: 4seven175
+found seven, changing to 7
+after: 4s7even175
+before: 4twomspqqn6929
+found two, changing to 2
+after: 4t2womspqqn6929
+before: 71seven9eight
+found seven, changing to 7
+found eight, changing to 8
+after: 71s7even9e8ight
+before: 4znc92eight
+found eight, changing to 8
+after: 4znc92e8ight
+before: ninetwo2blcllflxonezljhhsfivelngxk
+found one, changing to 1
+found two, changing to 2
+found five, changing to 5
+found nine, changing to 9
+after: n9inet2wo2blcllflxo1nezljhhsf5ivelngxk
+before: nmbrjnsqhkxzxhmxsix1oneeight5fourseven
+found one, changing to 1
+found four, changing to 4
+found six, changing to 6
+found seven, changing to 7
+found eight, changing to 8
+after: nmbrjnsqhkxzxhmxs6ix1o1nee8ight5f4ours7even
+before: 42kvzlcdjzxmgnpqmsmkxq3seven43eightwovms
+found two, changing to 2
+found seven, changing to 7
+found eight, changing to 8
+after: 42kvzlcdjzxmgnpqmsmkxq3s7even43e8ight2wovms
+before: rj5hxkldqseven
+found seven, changing to 7
+after: rj5hxkldqs7even
+before: f7
+after: f7
+before: 5sskjblmnbzjhctvmttwotwott
+found two, changing to 2
+found two, changing to 2
+after: 5sskjblmnbzjhctvmtt2wot2wott
+before: 9ftmpxlbphsfxzsbktjttkxclknsbkftwo7
+found two, changing to 2
+after: 9ftmpxlbphsfxzsbktjttkxclknsbkft2wo7
+before: 3ndmzlfbsfqhxrlj2fourfive
+found four, changing to 4
+found five, changing to 5
+after: 3ndmzlfbsfqhxrlj2f4ourf5ive
+before: 8378vkthreemggtf2
+found three, changing to 3
+after: 8378vkt3hreemggtf2
+before: 2hprlpkbsfzbnbpsmflxjh15one
+found one, changing to 1
+after: 2hprlpkbsfzbnbpsmflxjh15o1ne
+before: dxvtfrhhxthree68four529eight
+found three, changing to 3
+found four, changing to 4
+found eight, changing to 8
+after: dxvtfrhhxt3hree68f4our529e8ight
+before: xgjvjddtnine1zxeightwosnx
+found two, changing to 2
+found eight, changing to 8
+found nine, changing to 9
+after: xgjvjddtn9ine1zxe8ight2wosnx
+before: sixblpgkznvjseven2oneskvxgngzlpzvjcxkcjgblh
+found one, changing to 1
+found six, changing to 6
+found seven, changing to 7
+after: s6ixblpgkznvjs7even2o1neskvxgngzlpzvjcxkcjgblh
+before: bhhkfive4jgngngjfhbp8kpnjtgrmblone
+found one, changing to 1
+found five, changing to 5
+after: bhhkf5ive4jgngngjfhbp8kpnjtgrmblo1ne
+before: 8vmfivetwo9eightthreefxbvf
+found two, changing to 2
+found three, changing to 3
+found five, changing to 5
+found eight, changing to 8
+after: 8vmf5ivet2wo9e8ightt3hreefxbvf
+before: 8738
+after: 8738
+before: 8sixlgnpbpqpltbqqjjxpkcdfourhxzqpmm
+found four, changing to 4
+found six, changing to 6
+after: 8s6ixlgnpbpqpltbqqjjxpkcdf4ourhxzqpmm
+before: seventwo5three
+found two, changing to 2
+found three, changing to 3
+found seven, changing to 7
+after: s7event2wo5t3hree
+before: h46ssnqlfrl8
+after: h46ssnqlfrl8
+before: ninetwokrkfqhh2jbznndtchssjtbpqdhtnrhsix
+found two, changing to 2
+found six, changing to 6
+found nine, changing to 9
+after: n9inet2wokrkfqhh2jbznndtchssjtbpqdhtnrhs6ix
+before: 254
+after: 254
+before: 1nhbdtwosixonezxtnvhjnine
+found one, changing to 1
+found two, changing to 2
+found six, changing to 6
+found nine, changing to 9
+after: 1nhbdt2wos6ixo1nezxtnvhjn9ine
+before: qxx97d1dcnqzqhsixnzbrvrksnc
+found six, changing to 6
+after: qxx97d1dcnqzqhs6ixnzbrvrksnc
+before: fivegnxzgvmzone8fourfivethree5
+found one, changing to 1
+found three, changing to 3
+found four, changing to 4
+found five, changing to 5
+found five, changing to 5
+after: f5ivegnxzgvmzo1ne8f4ourf5ivet3hree5
+before: fivexhx7six87
+found five, changing to 5
+found six, changing to 6
+after: f5ivexhx7s6ix87
+before: zngqzxpmd63bgfzjpftsjgzghdppqfqbnblt7sixone
+found one, changing to 1
+found six, changing to 6
+after: zngqzxpmd63bgfzjpftsjgzghdppqfqbnblt7s6ixo1ne
+before: ninemzlgnkglj1
+found nine, changing to 9
+after: n9inemzlgnkglj1
+before: fiveninesixeightthree4six1
+found three, changing to 3
+found five, changing to 5
+found six, changing to 6
+found six, changing to 6
+found eight, changing to 8
+found nine, changing to 9
+after: f5iven9ines6ixe8ightt3hree4s6ix1
+before: fivesix5ninethreeqkxczhp3
+found three, changing to 3
+found five, changing to 5
+found six, changing to 6
+found nine, changing to 9
+after: f5ives6ix5n9inet3hreeqkxczhp3
+before: eight19two16pqdstm
+found two, changing to 2
+found eight, changing to 8
+after: e8ight19t2wo16pqdstm
+before: mplj637sjtgzltwo
+found two, changing to 2
+after: mplj637sjtgzlt2wo
+before: 7lvs7xzmjmxjhlgdqhtqllhtzlkmbfm5
+after: 7lvs7xzmjmxjhlgdqhtqllhtzlkmbfm5
+before: six6kqvbjfoureight94
+found four, changing to 4
+found six, changing to 6
+found eight, changing to 8
+after: s6ix6kqvbjf4oure8ight94
+before: one9qdjpfszz6vxbrdnntfz8btft6
+found one, changing to 1
+after: o1ne9qdjpfszz6vxbrdnntfz8btft6
+before: 65onendmdgtr
+found one, changing to 1
+after: 65o1nendmdgtr
+before: seven368
+found seven, changing to 7
+after: s7even368
+before: eight31ngsdmnm
+found eight, changing to 8
+after: e8ight31ngsdmnm
+before: 2threetgpvcseven
+found three, changing to 3
+found seven, changing to 7
+after: 2t3hreetgpvcs7even
+before: nine297zqgvglthreel
+found three, changing to 3
+found nine, changing to 9
+after: n9ine297zqgvglt3hreel
+before: 7eighttxvrbjsnbcseven
+found seven, changing to 7
+found eight, changing to 8
+after: 7e8ighttxvrbjsnbcs7even
+before: rdpcnrscggv1cxv63
+after: rdpcnrscggv1cxv63
+before: 2cdfltscsnzg8eightwosg
+found two, changing to 2
+found eight, changing to 8
+after: 2cdfltscsnzg8e8ight2wosg
+before: jrszpsjthree8n8bdjtlcbxtsixktkcc
+found three, changing to 3
+found six, changing to 6
+after: jrszpsjt3hree8n8bdjtlcbxts6ixktkcc
+before: dns3
+after: dns3
+before: 2threebpkctf
+found three, changing to 3
+after: 2t3hreebpkctf
+before: 5pgzpfqntc
+after: 5pgzpfqntc
+before: 9pkone
+found one, changing to 1
+after: 9pko1ne
+before: oneseven2fm545two3
+found one, changing to 1
+found two, changing to 2
+found seven, changing to 7
+after: o1nes7even2fm545t2wo3
+before: 9threegtctbldnnclqpdmjnps7seven
+found three, changing to 3
+found seven, changing to 7
+after: 9t3hreegtctbldnnclqpdmjnps7s7even
+before: 1dknxbdcvpssix413
+found six, changing to 6
+after: 1dknxbdcvpss6ix413
+before: rzrvm77one2
+found one, changing to 1
+after: rzrvm77o1ne2
+before: sixnttfive97jdcjvcmg
+found five, changing to 5
+found six, changing to 6
+after: s6ixnttf5ive97jdcjvcmg
+before: spdmkhnthreebqsmtqgnm5threedxjcvsrxbq
+found three, changing to 3
+found three, changing to 3
+after: spdmkhnt3hreebqsmtqgnm5t3hreedxjcvsrxbq
+before: btzkx8ckninevffmmfm3four
+found four, changing to 4
+found nine, changing to 9
+after: btzkx8ckn9inevffmmfm3f4our
+before: hgx8fivenine2oneightc
+found one, changing to 1
+found five, changing to 5
+found eight, changing to 8
+found nine, changing to 9
+after: hgx8f5iven9ine2o1ne8ightc
+before: thdfczcpnxctgfiveseven65threeeight4
+found three, changing to 3
+found five, changing to 5
+found seven, changing to 7
+found eight, changing to 8
+after: thdfczcpnxctgf5ives7even65t3hreee8ight4
+before: five6nine
+found five, changing to 5
+found nine, changing to 9
+after: f5ive6n9ine
+before: qgtds7
+after: qgtds7
+before: hqnzcfleight8two2
+found two, changing to 2
+found eight, changing to 8
+after: hqnzcfle8ight8t2wo2
+before: 8q8zbkjrqxzhlzgmqmzrbfqceight
+found eight, changing to 8
+after: 8q8zbkjrqxzhlzgmqmzrbfqce8ight
+before: nbbrrmksdm2ninefive3x
+found five, changing to 5
+found nine, changing to 9
+after: nbbrrmksdm2n9inef5ive3x
+before: fivec2sixsixmngbsjzk71
+found five, changing to 5
+found six, changing to 6
+found six, changing to 6
+after: f5ivec2s6ixs6ixmngbsjzk71
+before: 821one4
+found one, changing to 1
+after: 821o1ne4
+before: 5eightvpxfpnzvsfhcdtn7kdkjdpsqcl
+found eight, changing to 8
+after: 5e8ightvpxfpnzvsfhcdtn7kdkjdpsqcl
+before: 6seventwotwogxvgvxzjbvcqcl38
+found two, changing to 2
+found two, changing to 2
+found seven, changing to 7
+after: 6s7event2wot2wogxvgvxzjbvcqcl38
+before: onetwo23863
+found one, changing to 1
+found two, changing to 2
+after: o1net2wo23863
+before: 24qtzzxfhq
+after: 24qtzzxfhq
+before: one7six814
+found one, changing to 1
+found six, changing to 6
+after: o1ne7s6ix814
+before: czdhrn2twoninetwo8
+found two, changing to 2
+found two, changing to 2
+found nine, changing to 9
+after: czdhrn2t2won9inet2wo8
+before: one54
+found one, changing to 1
+after: o1ne54
+before: foursslpnrqcv7sixtwoned
+found one, changing to 1
+found two, changing to 2
+found four, changing to 4
+found six, changing to 6
+after: f4oursslpnrqcv7s6ixt2wo1ned
+before: 9xsptsgfplpbrtpc1sevenjrggpr52
+found seven, changing to 7
+after: 9xsptsgfplpbrtpc1s7evenjrggpr52
+before: zoneightg6sixgfdtwo7
+found one, changing to 1
+found two, changing to 2
+found six, changing to 6
+found eight, changing to 8
+after: zo1ne8ightg6s6ixgfdt2wo7
+before: 34twodhthree2tqsevenvqqrxq
+found two, changing to 2
+found three, changing to 3
+found seven, changing to 7
+after: 34t2wodht3hree2tqs7evenvqqrxq
+before: monektltrghq97seven
+found one, changing to 1
+found seven, changing to 7
+after: mo1nektltrghq97s7even
+before: ggeightwothree5cpfvrnp48
+found two, changing to 2
+found three, changing to 3
+found eight, changing to 8
+after: gge8ight2wot3hree5cpfvrnp48
+before: nine7zpcbx33bbmd
+found nine, changing to 9
+after: n9ine7zpcbx33bbmd
+before: six831
+found six, changing to 6
+after: s6ix831
+before: 63vjlqdc5one
+found one, changing to 1
+after: 63vjlqdc5o1ne
+before: nine9cgxgrq8
+found nine, changing to 9
+after: n9ine9cgxgrq8
+before: 5sixxpeightsix
+found six, changing to 6
+found six, changing to 6
+found eight, changing to 8
+after: 5s6ixxpe8ights6ix
+before: onecgpxlhhgtthreetwo3
+found one, changing to 1
+found two, changing to 2
+found three, changing to 3
+after: o1necgpxlhhgtt3hreet2wo3
+before: 336
+after: 336
+before: xcdjlblthreefourqrcxbxlhsdlseven5five
+found three, changing to 3
+found four, changing to 4
+found five, changing to 5
+found seven, changing to 7
+after: xcdjlblt3hreef4ourqrcxbxlhsdls7even5f5ive
+before: 9znnlhrrmb1999drzkckthreehghffcgfr
+found three, changing to 3
+after: 9znnlhrrmb1999drzkckt3hreehghffcgfr
+before: two8one
+found one, changing to 1
+found two, changing to 2
+after: t2wo8o1ne
+before: ztwogggh48
+found two, changing to 2
+after: zt2wogggh48
+before: six4pcmqkpqb
+found six, changing to 6
+after: s6ix4pcmqkpqb
+before: 14two47vmhbsgrgdone3
+found one, changing to 1
+found two, changing to 2
+after: 14t2wo47vmhbsgrgdo1ne3
+before: 84eight2
+found eight, changing to 8
+after: 84e8ight2
+before: 5cnoneskjzppm
+found one, changing to 1
+after: 5cno1neskjzppm
+before: nine8threecstfxqp7
+found three, changing to 3
+found nine, changing to 9
+after: n9ine8t3hreecstfxqp7
+before: threecsbhnn22three9three4xphcvgnz
+found three, changing to 3
+found three, changing to 3
+found three, changing to 3
+after: t3hreecsbhnn22t3hree9t3hree4xphcvgnz
+before: vjq8ninenhr7
+found nine, changing to 9
+after: vjq8n9inenhr7
+before: qcffmrfthreexgjjrdbdthree3
+found three, changing to 3
+found three, changing to 3
+after: qcffmrft3hreexgjjrdbdt3hree3
+before: eightsix5
+found six, changing to 6
+found eight, changing to 8
+after: e8ights6ix5
+before: threeeightfcsmrvdqzp6
+found three, changing to 3
+found eight, changing to 8
+after: t3hreee8ightfcsmrvdqzp6
+before: sevendcpm3five4eightbthreefive
+found three, changing to 3
+found five, changing to 5
+found five, changing to 5
+found seven, changing to 7
+found eight, changing to 8
+after: s7evendcpm3f5ive4e8ightbt3hreef5ive
+before: kq9one46dqnr
+found one, changing to 1
+after: kq9o1ne46dqnr
+before: jbmtdqbzn5sixlnthree
+found three, changing to 3
+found six, changing to 6
+after: jbmtdqbzn5s6ixlnt3hree
+before: ninebdz4fourbvq
+found four, changing to 4
+found nine, changing to 9
+after: n9inebdz4f4ourbvq
+before: phbzxtvtthreerm89
+found three, changing to 3
+after: phbzxtvtt3hreerm89
+before: dqlgfoursix5k3mcrkmxcp
+found four, changing to 4
+found six, changing to 6
+after: dqlgf4ours6ix5k3mcrkmxcp
+before: 3fivesixqrrvtsjdxtdqp14pznxpnrgkrvg
+found five, changing to 5
+found six, changing to 6
+after: 3f5ives6ixqrrvtsjdxtdqp14pznxpnrgkrvg
+before: 5cnkfz4lxbvbpmcfninetgn9
+found nine, changing to 9
+after: 5cnkfz4lxbvbpmcfn9inetgn9
+before: mtjq8threeninefourhnzgctvtrfive
+found three, changing to 3
+found four, changing to 4
+found five, changing to 5
+found nine, changing to 9
+after: mtjq8t3hreen9inef4ourhnzgctvtrf5ive
+before: 47l6784
+after: 47l6784
+before: twopdmponenzpjfbqgt2nine1qccqx
+found one, changing to 1
+found two, changing to 2
+found nine, changing to 9
+after: t2wopdmpo1nenzpjfbqgt2n9ine1qccqx
+before: 77hspkdhqfztwomkdshrkn3nt
+found two, changing to 2
+after: 77hspkdhqfzt2womkdshrkn3nt
+before: five7pjrslqhkzcjzhn6
+found five, changing to 5
+after: f5ive7pjrslqhkzcjzhn6
+before: twoqvgphqs8zzmgclhsseven5eightfive
+found two, changing to 2
+found five, changing to 5
+found seven, changing to 7
+found eight, changing to 8
+after: t2woqvgphqs8zzmgclhss7even5e8ightf5ive
+before: threehmkjmrqqblnrfvbpzhrsix4zvlmcqeight
+found three, changing to 3
+found six, changing to 6
+found eight, changing to 8
+after: t3hreehmkjmrqqblnrfvbpzhrs6ix4zvlmcqe8ight
+before: 6lcfjthree8ninefive54
+found three, changing to 3
+found five, changing to 5
+found nine, changing to 9
+after: 6lcfjt3hree8n9inef5ive54
+before: sevenfive558four
+found four, changing to 4
+found five, changing to 5
+found seven, changing to 7
+after: s7evenf5ive558f4our
+before: htbdrfh8bthreeninedrjdbjbzlknine
+found three, changing to 3
+found nine, changing to 9
+found nine, changing to 9
+after: htbdrfh8bt3hreen9inedrjdbjbzlkn9ine
+before: hkhknzrbfsevenhcvbdfs2sixcbjqzltfour4
+found four, changing to 4
+found six, changing to 6
+found seven, changing to 7
+after: hkhknzrbfs7evenhcvbdfs2s6ixcbjqzltf4our4
+before: qrvfpxdseven2
+found seven, changing to 7
+after: qrvfpxds7even2
+before: 139msnzkfgpzdz5nine1
+found nine, changing to 9
+after: 139msnzkfgpzdz5n9ine1
+before: rbdone3ftvrdkssvmnzjgpcbdjzdkcgbcs69
+found one, changing to 1
+after: rbdo1ne3ftvrdkssvmnzjgpcbdjzdkcgbcs69
+before: nine58
+found nine, changing to 9
+after: n9ine58
+before: 2ckxdtcqc5seveneight4two
+found two, changing to 2
+found seven, changing to 7
+found eight, changing to 8
+after: 2ckxdtcqc5s7evene8ight4t2wo
+before: qtgndtm4mrqvtgbgjf7nzhvtvjqqrdmfiverzzgn
+found five, changing to 5
+after: qtgndtm4mrqvtgbgjf7nzhvtvjqqrdmf5iverzzgn
+before: 3rchqn37tlvgtftdjqxgbvhlpclpneightfive
+found five, changing to 5
+found eight, changing to 8
+after: 3rchqn37tlvgtftdjqxgbvhlpclpne8ightf5ive
+before: 11sfhcntjzpnkvpzjfhhpmbtjptngpnbqthreethree6
+found three, changing to 3
+found three, changing to 3
+after: 11sfhcntjzpnkvpzjfhhpmbtjptngpnbqt3hreet3hree6
+before: fivenine4cthreeeightzqlckkvs
+found three, changing to 3
+found five, changing to 5
+found eight, changing to 8
+found nine, changing to 9
+after: f5iven9ine4ct3hreee8ightzqlckkvs
+before: 5threekjqxkddgvzph92
+found three, changing to 3
+after: 5t3hreekjqxkddgvzph92
+before: five372seven8eightthreefour
+found three, changing to 3
+found four, changing to 4
+found five, changing to 5
+found seven, changing to 7
+found eight, changing to 8
+after: f5ive372s7even8e8ightt3hreef4our
+before: fivegjjxh15zdnbxzlhleight5fourqrpxj
+found four, changing to 4
+found five, changing to 5
+found eight, changing to 8
+after: f5ivegjjxh15zdnbxzlhle8ight5f4ourqrpxj
+before: 84sevenvckrdpxlgzkcbpr76fjzbpn
+found seven, changing to 7
+after: 84s7evenvckrdpxlgzkcbpr76fjzbpn
+before: mvvxgjfqj9five1psvtflxhkpfourdxzxhvxmthreekp
+found three, changing to 3
+found four, changing to 4
+found five, changing to 5
+after: mvvxgjfqj9f5ive1psvtflxhkpf4ourdxzxhvxmt3hreekp
+before: seven7pnltbp1twotwo9lfdgzpj
+found two, changing to 2
+found two, changing to 2
+found seven, changing to 7
+after: s7even7pnltbp1t2wot2wo9lfdgzpj
+before: sevenfkrtsgrnhgfive54three8csmsg
+found three, changing to 3
+found five, changing to 5
+found seven, changing to 7
+after: s7evenfkrtsgrnhgf5ive54t3hree8csmsg
+before: sevendczlbgjbg6srsbtseven
+found seven, changing to 7
+found seven, changing to 7
+after: s7evendczlbgjbg6srsbts7even
+before: onejscsevensix2oneightd
+found one, changing to 1
+found one, changing to 1
+found six, changing to 6
+found seven, changing to 7
+found eight, changing to 8
+after: o1nejscs7evens6ix2o1ne8ightd
+before: mchrcflvfj3znrzhrvbhm
+after: mchrcflvfj3znrzhrvbhm
+before: brfninexxntnine83kfzbn
+found nine, changing to 9
+found nine, changing to 9
+after: brfn9inexxntn9ine83kfzbn
+before: 97tfgthreefxpv
+found three, changing to 3
+after: 97tfgt3hreefxpv
+before: kspdrcnvvntts8bb4sixvghhjcpt
+found six, changing to 6
+after: kspdrcnvvntts8bb4s6ixvghhjcpt
+before: 8onedxcbnlvpntljztxs
+found one, changing to 1
+after: 8o1nedxcbnlvpntljztxs
+before: c91drttnrsevenxj9
+found seven, changing to 7
+after: c91drttnrs7evenxj9
+before: 9onethree9fivexrszjfxcrjdbskdmn
+found one, changing to 1
+found three, changing to 3
+found five, changing to 5
+after: 9o1net3hree9f5ivexrszjfxcrjdbskdmn
+before: cjtnzpfourxspsjvmrbqclkzkdftc8pdfbfxjnvflgfkqctvcsc
+found four, changing to 4
+after: cjtnzpf4ourxspsjvmrbqclkzkdftc8pdfbfxjnvflgfkqctvcsc
+before: 5seventkqrdpmrrchxfournczqzlqqm7p
+found four, changing to 4
+found seven, changing to 7
+after: 5s7eventkqrdpmrrchxf4ournczqzlqqm7p
+before: nhpbdxgzzjltdftqc5fivelgvjshonervrxmgscvhnnfl
+found one, changing to 1
+found five, changing to 5
+after: nhpbdxgzzjltdftqc5f5ivelgvjsho1nervrxmgscvhnnfl
+before: 2gcqpdcgjv
+after: 2gcqpdcgjv
+before: bqhzdzxb54
+after: bqhzdzxb54
+before: nsmxljkjcmnmxvcrj7threegcrjs7
+found three, changing to 3
+after: nsmxljkjcmnmxvcrj7t3hreegcrjs7
+before: 2cninev1eightdjcztnrk
+found eight, changing to 8
+found nine, changing to 9
+after: 2cn9inev1e8ightdjcztnrk
+before: cmjskeightmjfrlfhm22fivetzmfive
+found five, changing to 5
+found five, changing to 5
+found eight, changing to 8
+after: cmjske8ightmjfrlfhm22f5ivetzmf5ive
+before: 8ndsix
+found six, changing to 6
+after: 8nds6ix
+before: nzrgmlcrg5r4eighthfxm4
+found eight, changing to 8
+after: nzrgmlcrg5r4e8ighthfxm4
+before: threeptlf3x4
+found three, changing to 3
+after: t3hreeptlf3x4
+before: 3bhd
+after: 3bhd
+before: cbmzrtglngmghmonezdqnhxxd1ctpghbfzqfivefour8
+found one, changing to 1
+found four, changing to 4
+found five, changing to 5
+after: cbmzrtglngmghmo1nezdqnhxxd1ctpghbfzqf5ivef4our8
+before: eightpdzftbdlcrtwonine29bcgxflmf
+found two, changing to 2
+found eight, changing to 8
+found nine, changing to 9
+after: e8ightpdzftbdlcrt2won9ine29bcgxflmf
+before: 69crzsmjfivecxcqtffoursix4two
+found two, changing to 2
+found four, changing to 4
+found five, changing to 5
+found six, changing to 6
+after: 69crzsmjf5ivecxcqtff4ours6ix4t2wo
+before: 92zghnv
+after: 92zghnv
+before: fivejmdxvnf1
+found five, changing to 5
+after: f5ivejmdxvnf1
+before: 1ntvtnrjmeight1onegckvcnsjnthree
+found one, changing to 1
+found three, changing to 3
+found eight, changing to 8
+after: 1ntvtnrjme8ight1o1negckvcnsjnt3hree
+before: ncxgppbsnhsfnhlonelfbxqzsgfjj8
+found one, changing to 1
+after: ncxgppbsnhsfnhlo1nelfbxqzsgfjj8
+before: eightfhjbrlzxcgtls42sixtjk7two
+found two, changing to 2
+found six, changing to 6
+found eight, changing to 8
+after: e8ightfhjbrlzxcgtls42s6ixtjk7t2wo
+before: czrtnfzjnjhxdxtbgtmntkcpninejtzrprsstm4eight2
+found eight, changing to 8
+found nine, changing to 9
+after: czrtnfzjnjhxdxtbgtmntkcpn9inejtzrprsstm4e8ight2
+before: 483nine
+found nine, changing to 9
+after: 483n9ine
+before: onecnxpmhjjcvdtzc71seven
+found one, changing to 1
+found seven, changing to 7
+after: o1necnxpmhjjcvdtzc71s7even
+before: 5l15
+after: 5l15
+before: 19jmkmrxbdbtz4shpdgmmhzrxtbftpgrj3plvlqdvnr
+after: 19jmkmrxbdbtz4shpdgmmhzrxtbftpgrj3plvlqdvnr
+before: two4two
+found two, changing to 2
+found two, changing to 2
+after: t2wo4t2wo
+before: kqgtjstcpnhf8
+after: kqgtjstcpnhf8
+before: sn6
+after: sn6
+before: grtgjxgqhv2fourbjmfnb
+found four, changing to 4
+after: grtgjxgqhv2f4ourbjmfnb
+before: bfmtkqfcp5hks74fivesevenbgvgzr
+found five, changing to 5
+found seven, changing to 7
+after: bfmtkqfcp5hks74f5ives7evenbgvgzr
+before: peightwoninef2ninejmlhndvjd92
+found two, changing to 2
+found eight, changing to 8
+found nine, changing to 9
+found nine, changing to 9
+after: pe8ight2won9inef2n9inejmlhndvjd92
+before: 1qxm
+after: 1qxm
+before: 2drkgnvghqrjtfxrvnthreesevenpzzldp
+found three, changing to 3
+found seven, changing to 7
+after: 2drkgnvghqrjtfxrvnt3hrees7evenpzzldp
+before: four4zcmmzgbzc
+found four, changing to 4
+after: f4our4zcmmzgbzc
+before: 4nfbpctgmx
+after: 4nfbpctgmx
+before: 3threemfbgthree19sixone8
+found one, changing to 1
+found three, changing to 3
+found three, changing to 3
+found six, changing to 6
+after: 3t3hreemfbgt3hree19s6ixo1ne8
+before: ggc1gldjhxsgvq
+after: ggc1gldjhxsgvq
+before: 1four4seven824nineeight
+found four, changing to 4
+found seven, changing to 7
+found eight, changing to 8
+found nine, changing to 9
+after: 1f4our4s7even824n9inee8ight
+before: ninefour6one5ninetwo
+found one, changing to 1
+found two, changing to 2
+found four, changing to 4
+found nine, changing to 9
+found nine, changing to 9
+after: n9inef4our6o1ne5n9inet2wo
+before: bpjs8rjdxpm
+after: bpjs8rjdxpm
+before: zggcvkzeight7onejgkhpsrdkfvfx5three
+found one, changing to 1
+found three, changing to 3
+found eight, changing to 8
+after: zggcvkze8ight7o1nejgkhpsrdkfvfx5t3hree
+before: 7h7lpjzsdv4six1
+found six, changing to 6
+after: 7h7lpjzsdv4s6ix1
+before: 6seven9one4
+found one, changing to 1
+found seven, changing to 7
+after: 6s7even9o1ne4
+before: sixfour6
+found four, changing to 4
+found six, changing to 6
+after: s6ixf4our6
+before: 4hkddrmgfp
+after: 4hkddrmgfp
+before: 43ninecrtoneseven2qbhkkbzdltfour
+found one, changing to 1
+found four, changing to 4
+found seven, changing to 7
+found nine, changing to 9
+after: 43n9inecrto1nes7even2qbhkkbzdltf4our
+before: 85
+after: 85
+before: hlfive3dqzdvjkdd
+found five, changing to 5
+after: hlf5ive3dqzdvjkdd
+before: 5chpcxbjkrdzbjtwofivethreem
+found two, changing to 2
+found three, changing to 3
+found five, changing to 5
+after: 5chpcxbjkrdzbjt2wof5ivet3hreem
+before: 6ninenineonefour
+found one, changing to 1
+found four, changing to 4
+found nine, changing to 9
+found nine, changing to 9
+after: 6n9inen9ineo1nef4our
+before: 5five8twoonesf2
+found one, changing to 1
+found two, changing to 2
+found five, changing to 5
+after: 5f5ive8t2woo1nesf2
+before: four1seven5pbbjgmxgxmvfzjtvr6vttbnd
+found four, changing to 4
+found seven, changing to 7
+after: f4our1s7even5pbbjgmxgxmvfzjtvr6vttbnd
+before: zzkcpcckmsixeightnine4
+found six, changing to 6
+found eight, changing to 8
+found nine, changing to 9
+after: zzkcpcckms6ixe8ightn9ine4
+before: 9xxzzvcsg45one
+found one, changing to 1
+after: 9xxzzvcsg45o1ne
+before: xmd3ninerxllskrl
+found nine, changing to 9
+after: xmd3n9inerxllskrl
+before: xxj2onesixfive3six
+found one, changing to 1
+found five, changing to 5
+found six, changing to 6
+found six, changing to 6
+after: xxj2o1nes6ixf5ive3s6ix
+before: threeseven8
+found three, changing to 3
+found seven, changing to 7
+after: t3hrees7even8
+before: one43
+found one, changing to 1
+after: o1ne43
+before: 1sixthreelcbcfgbone3bzgrl5
+found one, changing to 1
+found three, changing to 3
+found six, changing to 6
+after: 1s6ixt3hreelcbcfgbo1ne3bzgrl5
+before: four12535three5
+found three, changing to 3
+found four, changing to 4
+after: f4our12535t3hree5
+before: jztxrtwo8495
+found two, changing to 2
+after: jztxrt2wo8495
+before: threeqhsvcvzfnsevenfourtwothreeffrz9
+found two, changing to 2
+found three, changing to 3
+found three, changing to 3
+found four, changing to 4
+found seven, changing to 7
+after: t3hreeqhsvcvzfns7evenf4ourt2wot3hreeffrz9
+before: onevqlxcz461five4fthree
+found one, changing to 1
+found three, changing to 3
+found five, changing to 5
+after: o1nevqlxcz461f5ive4ft3hree
+before: znine5
+found nine, changing to 9
+after: zn9ine5
+before: cch5ptlbcbh2ngnlqnrdsjv6mfhndf2
+after: cch5ptlbcbh2ngnlqnrdsjv6mfhndf2
+before: threehblbzlddttzkrsl51eightzrj
+found three, changing to 3
+found eight, changing to 8
+after: t3hreehblbzlddttzkrsl51e8ightzrj
+before: 68pgmnbz7seven
+found seven, changing to 7
+after: 68pgmnbz7s7even
+before: twotfhcgltpp1ntpcvrmkgd998
+found two, changing to 2
+after: t2wotfhcgltpp1ntpcvrmkgd998
+before: seven3fourfive7eightsevendlqqseven
+found four, changing to 4
+found five, changing to 5
+found seven, changing to 7
+found seven, changing to 7
+found seven, changing to 7
+found eight, changing to 8
+after: s7even3f4ourf5ive7e8ights7evendlqqs7even
+before: jqtcrf43zkktbqhsevendljgb5two
+found two, changing to 2
+found seven, changing to 7
+after: jqtcrf43zkktbqhs7evendljgb5t2wo
+before: 3one5threethree
+found one, changing to 1
+found three, changing to 3
+found three, changing to 3
+after: 3o1ne5t3hreet3hree
+before: vvpjcnine9seventhreeninebtzmr
+found three, changing to 3
+found seven, changing to 7
+found nine, changing to 9
+found nine, changing to 9
+after: vvpjcn9ine9s7event3hreen9inebtzmr
+before: jfourp7twoseven32
+found two, changing to 2
+found four, changing to 4
+found seven, changing to 7
+after: jf4ourp7t2wos7even32
+before: 2prjqnineninevjlmqkrkdxv
+found nine, changing to 9
+found nine, changing to 9
+after: 2prjqn9inen9inevjlmqkrkdxv
+before: 67six1oneddp9
+found one, changing to 1
+found six, changing to 6
+after: 67s6ix1o1neddp9
+before: tcbcttxninenine21hrmphqrjkvtnfgchjnb3
+found nine, changing to 9
+found nine, changing to 9
+after: tcbcttxn9inen9ine21hrmphqrjkvtnfgchjnb3
+before: sg1six5sevennineone
+found one, changing to 1
+found six, changing to 6
+found seven, changing to 7
+found nine, changing to 9
+after: sg1s6ix5s7evenn9ineo1ne
+before: ninet7jkrzxtmmz
+found nine, changing to 9
+after: n9inet7jkrzxtmmz
+before: ninesixtslvqck9
+found six, changing to 6
+found nine, changing to 9
+after: n9ines6ixtslvqck9
+before: dnhsp9sevenrrsjdn
+found seven, changing to 7
+after: dnhsp9s7evenrrsjdn
+before: onekqkvb7
+found one, changing to 1
+after: o1nekqkvb7
+before: 2sfflskftk
+after: 2sfflskftk
+before: 79four
+found four, changing to 4
+after: 79f4our
+before: jnngdkghtwo1two
+found two, changing to 2
+found two, changing to 2
+after: jnngdkght2wo1t2wo
+before: fptfourseven4hjvkz3onesix
+found one, changing to 1
+found four, changing to 4
+found six, changing to 6
+found seven, changing to 7
+after: fptf4ours7even4hjvkz3o1nes6ix
+before: tzhtsgkcp8
+after: tzhtsgkcp8
+before: 9n
+after: 9n
+before: six4294seven8
+found six, changing to 6
+found seven, changing to 7
+after: s6ix4294s7even8
+before: seveneight74five1
+found five, changing to 5
+found seven, changing to 7
+found eight, changing to 8
+after: s7evene8ight74f5ive1
+before: kfghjdssttgrfour2two5three1nine
+found two, changing to 2
+found three, changing to 3
+found four, changing to 4
+found nine, changing to 9
+after: kfghjdssttgrf4our2t2wo5t3hree1n9ine
+before: 5gkhgsixvlpcdmpgbjkqtjlthreetwo3one
+found one, changing to 1
+found two, changing to 2
+found three, changing to 3
+found six, changing to 6
+after: 5gkhgs6ixvlpcdmpgbjkqtjlt3hreet2wo3o1ne
+before: sevenfour1tfxzgsnldk1fiveqg
+found four, changing to 4
+found five, changing to 5
+found seven, changing to 7
+after: s7evenf4our1tfxzgsnldk1f5iveqg
+before: 187qhhqlrjx
+after: 187qhhqlrjx
+before: 2lthreethreexthjqcsix
+found three, changing to 3
+found three, changing to 3
+found six, changing to 6
+after: 2lt3hreet3hreexthjqcs6ix
+before: cgpxkxgkmcpdzhtpc363
+after: cgpxkxgkmcpdzhtpc363
+before: sixbtkvqt3
+found six, changing to 6
+after: s6ixbtkvqt3
+before: 4twotwoqqmtb7dczgqrtsixseven
+found two, changing to 2
+found two, changing to 2
+found six, changing to 6
+found seven, changing to 7
+after: 4t2wot2woqqmtb7dczgqrts6ixs7even
+before: seventwo7z9fzgjkl5fjndrznc
+found two, changing to 2
+found seven, changing to 7
+after: s7event2wo7z9fzgjkl5fjndrznc
+before: qsgfnjqsghtwoninethree8lppsthree
+found two, changing to 2
+found three, changing to 3
+found three, changing to 3
+found nine, changing to 9
+after: qsgfnjqsght2won9inet3hree8lppst3hree
+before: threesevenkdzzvzbl2foursxrlq4sevensix
+found three, changing to 3
+found four, changing to 4
+found six, changing to 6
+found seven, changing to 7
+found seven, changing to 7
+after: t3hrees7evenkdzzvzbl2f4oursxrlq4s7evens6ix
+before: seven8bjbmcnhrcp3one
+found one, changing to 1
+found seven, changing to 7
+after: s7even8bjbmcnhrcp3o1ne
+before: gg531
+after: gg531
+before: one8sfvzplxlknine54
+found one, changing to 1
+found nine, changing to 9
+after: o1ne8sfvzplxlkn9ine54
+before: dlxeightwo48fourthreeninethreeeight
+found two, changing to 2
+found three, changing to 3
+found three, changing to 3
+found four, changing to 4
+found eight, changing to 8
+found eight, changing to 8
+found nine, changing to 9
+after: dlxe8ight2wo48f4ourt3hreen9inet3hreee8ight
+before: sixxlglqsjtmqmgcnfvpljsevenqlgllg6
+found six, changing to 6
+found seven, changing to 7
+after: s6ixxlglqsjtmqmgcnfvpljs7evenqlgllg6
+before: tszncfour7one
+found one, changing to 1
+found four, changing to 4
+after: tszncf4our7o1ne
+before: three54three4
+found three, changing to 3
+found three, changing to 3
+after: t3hree54t3hree4
+before: qkjxzcdmxqvjngmrkpmleight83
+found eight, changing to 8
+after: qkjxzcdmxqvjngmrkpmle8ight83
+before: 5twoksv49
+found two, changing to 2
+after: 5t2woksv49
+before: 7six58sseven87two
+found two, changing to 2
+found six, changing to 6
+found seven, changing to 7
+after: 7s6ix58ss7even87t2wo
+before: fourseven6ndsgfjv8
+found four, changing to 4
+found seven, changing to 7
+after: f4ours7even6ndsgfjv8
+before: ppmclkxhpjpqrjoneeight8two
+found one, changing to 1
+found two, changing to 2
+found eight, changing to 8
+after: ppmclkxhpjpqrjo1nee8ight8t2wo
+before: 538
+after: 538
+before: sixlhsixfive5
+found five, changing to 5
+found six, changing to 6
+found six, changing to 6
+after: s6ixlhs6ixf5ive5
+before: twosevenb3f2twonebpb
+found one, changing to 1
+found two, changing to 2
+found two, changing to 2
+found seven, changing to 7
+after: t2wos7evenb3f2t2wo1nebpb
+before: lxqbgl55fgzfmvtpgjbxxgffsixlkxlbvmjkkslqpkq5
+found six, changing to 6
+after: lxqbgl55fgzfmvtpgjbxxgffs6ixlkxlbvmjkkslqpkq5
+before: 7ptnpseven6one
+found one, changing to 1
+found seven, changing to 7
+after: 7ptnps7even6o1ne
+before: 3mtlbfc6tx46five
+found five, changing to 5
+after: 3mtlbfc6tx46f5ive
+before: 99pgdmnrbjv
+after: 99pgdmnrbjv
+before: 7twokvzlvptxcrfbfzqsxsqvxtfkcpkczkr9fjxsr
+found two, changing to 2
+after: 7t2wokvzlvptxcrfbfzqsxsqvxtfkcpkczkr9fjxsr
+before: eight82lfivenine
+found five, changing to 5
+found eight, changing to 8
+found nine, changing to 9
+after: e8ight82lf5iven9ine
+before: onetwo2jvqdhkktbeight
+found one, changing to 1
+found two, changing to 2
+found eight, changing to 8
+after: o1net2wo2jvqdhkktbe8ight
+before: 8zhxksgcc79one
+found one, changing to 1
+after: 8zhxksgcc79o1ne
+before: knqqz4
+after: knqqz4
+before: 36twofour
+found two, changing to 2
+found four, changing to 4
+after: 36t2wof4our
+before: 2gdssixtnineeight2
+found six, changing to 6
+found eight, changing to 8
+found nine, changing to 9
+after: 2gdss6ixtn9inee8ight2
+before: foursix4
+found four, changing to 4
+found six, changing to 6
+after: f4ours6ix4
+before: 49hjbscbjvbckhjmjrdbh3one
+found one, changing to 1
+after: 49hjbscbjvbckhjmjrdbh3o1ne
+before: fivesixdqpnv2
+found five, changing to 5
+found six, changing to 6
+after: f5ives6ixdqpnv2
+before: 7ftwo
+found two, changing to 2
+after: 7ft2wo
+before: fourffhffkphssbxzsgeight68dvhgrb
+found four, changing to 4
+found eight, changing to 8
+after: f4ourffhffkphssbxzsge8ight68dvhgrb
+before: two8sevenfive1
+found two, changing to 2
+found five, changing to 5
+found seven, changing to 7
+after: t2wo8s7evenf5ive1
+before: dggljb5nvhpspbscfhd21
+after: dggljb5nvhpspbscfhd21
+before: twokeightthreeone6lqglrseven
+found one, changing to 1
+found two, changing to 2
+found three, changing to 3
+found seven, changing to 7
+found eight, changing to 8
+after: t2woke8ightt3hreeo1ne6lqglrs7even
+before: cklfcsqgtwohptslmlgdpjktvvbbx3
+found two, changing to 2
+after: cklfcsqgt2wohptslmlgdpjktvvbbx3
+before: two3sixthreesevennine
+found two, changing to 2
+found three, changing to 3
+found six, changing to 6
+found seven, changing to 7
+found nine, changing to 9
+after: t2wo3s6ixt3hrees7evenn9ine
+before: 7ninepnclmdnv7ninevmqoneightpct
+found one, changing to 1
+found eight, changing to 8
+found nine, changing to 9
+found nine, changing to 9
+after: 7n9inepnclmdnv7n9inevmqo1ne8ightpct
+before: czzbhfhhrfonetwo1ttvpgxkgsonektpnfrptjltklj4
+found one, changing to 1
+found one, changing to 1
+found two, changing to 2
+after: czzbhfhhrfo1net2wo1ttvpgxkgso1nektpnfrptjltklj4
+before: 7sixthree1five45
+found three, changing to 3
+found five, changing to 5
+found six, changing to 6
+after: 7s6ixt3hree1f5ive45
+before: btwone3fivelfzmfxsr81oneqhkzjvt
+found one, changing to 1
+found one, changing to 1
+found two, changing to 2
+found five, changing to 5
+after: bt2wo1ne3f5ivelfzmfxsr81o1neqhkzjvt
+before: 5kmrlbvpcdrfivefourfive3
+found four, changing to 4
+found five, changing to 5
+found five, changing to 5
+after: 5kmrlbvpcdrf5ivef4ourf5ive3
+before: 9fsl3nine12
+found nine, changing to 9
+after: 9fsl3n9ine12
+before: 1seven1seventwofivetwosix
+found two, changing to 2
+found two, changing to 2
+found five, changing to 5
+found six, changing to 6
+found seven, changing to 7
+found seven, changing to 7
+after: 1s7even1s7event2wof5ivet2wos6ix
+before: sixzdeight9fcpzvsbtz85
+found six, changing to 6
+found eight, changing to 8
+after: s6ixzde8ight9fcpzvsbtz85
+before: n1jmxjvgfiveone
+found one, changing to 1
+found five, changing to 5
+after: n1jmxjvgf5iveo1ne
+before: 1qsptpfbqtrl19three
+found three, changing to 3
+after: 1qsptpfbqtrl19t3hree
+before: 5twoeight3grrksgjdkgn
+found two, changing to 2
+found eight, changing to 8
+after: 5t2woe8ight3grrksgjdkgn
+before: 1dq4sjknrp755
+after: 1dq4sjknrp755
+before: 2three2five
+found three, changing to 3
+found five, changing to 5
+after: 2t3hree2f5ive
+before: txktfive2ngqfl57
+found five, changing to 5
+after: txktf5ive2ngqfl57
+before: vnrjvh1qpbbzqlgjpgrsgrqgggthreeone
+found one, changing to 1
+found three, changing to 3
+after: vnrjvh1qpbbzqlgjpgrsgrqgggt3hreeo1ne
+before: sevenone8srlxqqlvv
+found one, changing to 1
+found seven, changing to 7
+after: s7eveno1ne8srlxqqlvv
+before: eightsbfivefourfourseven6
+found four, changing to 4
+found four, changing to 4
+found five, changing to 5
+found seven, changing to 7
+found eight, changing to 8
+after: e8ightsbf5ivef4ourf4ours7even6
+before: 853
+after: 853
+before: eight53b3sxfvnz7
+found eight, changing to 8
+after: e8ight53b3sxfvnz7
+before: qbhrhkhcbnsfivenszghnbhsix2ggvv
+found five, changing to 5
+found six, changing to 6
+after: qbhrhkhcbnsf5ivenszghnbhs6ix2ggvv
+before: two28three9
+found two, changing to 2
+found three, changing to 3
+after: t2wo28t3hree9
+before: rltzcpbqxfive1nineone
+found one, changing to 1
+found five, changing to 5
+found nine, changing to 9
+after: rltzcpbqxf5ive1n9ineo1ne
+before: 5threedcfspjkm62seven8
+found three, changing to 3
+found seven, changing to 7
+after: 5t3hreedcfspjkm62s7even8
+before: tlndznhtthree268
+found three, changing to 3
+after: tlndznhtt3hree268
+before: ndfgfkphmn2sixjxxtlbqlnine
+found six, changing to 6
+found nine, changing to 9
+after: ndfgfkphmn2s6ixjxxtlbqln9ine
+before: 51eight682fivepnine
+found five, changing to 5
+found eight, changing to 8
+found nine, changing to 9
+after: 51e8ight682f5ivepn9ine
+before: dqvrvthreesixsix2fivenrjeight
+found three, changing to 3
+found five, changing to 5
+found six, changing to 6
+found six, changing to 6
+found eight, changing to 8
+after: dqvrvt3hrees6ixs6ix2f5ivenrje8ight
+before: seven69
+found seven, changing to 7
+after: s7even69
+before: 4qlkktltwo8tqgxcninefour21
+found two, changing to 2
+found four, changing to 4
+found nine, changing to 9
+after: 4qlkktlt2wo8tqgxcn9inef4our21
+before: threefour32j
+found three, changing to 3
+found four, changing to 4
+after: t3hreef4our32j
+before: 4nine27ngxp8
+found nine, changing to 9
+after: 4n9ine27ngxp8
+before: seven5ghxkb8
+found seven, changing to 7
+after: s7even5ghxkb8
+before: nineone56
+found one, changing to 1
+found nine, changing to 9
+after: n9ineo1ne56
+before: two8onezonesctsttzt5
+found one, changing to 1
+found one, changing to 1
+found two, changing to 2
+after: t2wo8o1nezo1nesctsttzt5
+before: 64km6ttncd
+after: 64km6ttncd
+before: three6six6
+found three, changing to 3
+found six, changing to 6
+after: t3hree6s6ix6
+before: threetwoeight7six7jgmhreightwocl
+found two, changing to 2
+found two, changing to 2
+found three, changing to 3
+found six, changing to 6
+found eight, changing to 8
+found eight, changing to 8
+after: t3hreet2woe8ight7s6ix7jgmhre8ight2wocl
+before: 3sixfivehjgvqjlrsfivesix6
+found five, changing to 5
+found five, changing to 5
+found six, changing to 6
+found six, changing to 6
+after: 3s6ixf5ivehjgvqjlrsf5ives6ix6
+before: fiveeight3sppjtccnineeighteightnffgtlsdj
+found five, changing to 5
+found eight, changing to 8
+found eight, changing to 8
+found eight, changing to 8
+found nine, changing to 9
+after: f5ivee8ight3sppjtccn9inee8ighte8ightnffgtlsdj
+before: 12seven9fbqxhs9jgh4five
+found five, changing to 5
+found seven, changing to 7
+after: 12s7even9fbqxhs9jgh4f5ive
+before: 7dmbqrqsnckxtpt
+after: 7dmbqrqsnckxtpt
+before: ktvlgfzt95lfdvf4lbppfccjcprdpkdj
+after: ktvlgfzt95lfdvf4lbppfccjcprdpkdj
+before: seven65lrjmmqdfjfourtslnhdh5
+found four, changing to 4
+found seven, changing to 7
+after: s7even65lrjmmqdfjf4ourtslnhdh5
+before: sblgrkqccmpqhfksmg5532
+after: sblgrkqccmpqhfksmg5532
+before: rgqzkmmv4ctgzcgvqdghmvfour3
+found four, changing to 4
+after: rgqzkmmv4ctgzcgvqdghmvf4our3
+before: 24rtxdxqnbvdnkgtgcbfkfbtwo
+found two, changing to 2
+after: 24rtxdxqnbvdnkgtgcbfkfbt2wo
+before: 63seven78hrdnnsh
+found seven, changing to 7
+after: 63s7even78hrdnnsh
+before: eighttpj79
+found eight, changing to 8
+after: e8ighttpj79
+before: foursix6
+found four, changing to 4
+found six, changing to 6
+after: f4ours6ix6
+before: 6czcdgdmrmzcdcfmsixfkdnbdsplcscqh27
+found six, changing to 6
+after: 6czcdgdmrmzcdcfms6ixfkdnbdsplcscqh27
+before: 3333dgrd
+after: 3333dgrd
+before: 8threeltfpfz3
+found three, changing to 3
+after: 8t3hreeltfpfz3
+before: xgxddj3qkcnbbbhtvbzkmvh8
+after: xgxddj3qkcnbbbhtvbzkmvh8
+before: s2pzqkldrcx43xzmxqvspm
+after: s2pzqkldrcx43xzmxqvspm
+before: eight1gkvlt24twothree19
+found two, changing to 2
+found three, changing to 3
+found eight, changing to 8
+after: e8ight1gkvlt24t2wot3hree19
+before: lkrzltxknd5fmjgbds2klkfgcgp3xcbxxpnl9hzfbfclrx
+after: lkrzltxknd5fmjgbds2klkfgcgp3xcbxxpnl9hzfbfclrx
+before: 2zhn73
+after: 2zhn73
+before: sixone4eightninelthreeeight
+found one, changing to 1
+found three, changing to 3
+found six, changing to 6
+found eight, changing to 8
+found eight, changing to 8
+found nine, changing to 9
+after: s6ixo1ne4e8ightn9inelt3hreee8ight
+before: seven8vlqqfjfmltwosevenfivetwo
+found two, changing to 2
+found two, changing to 2
+found five, changing to 5
+found seven, changing to 7
+found seven, changing to 7
+after: s7even8vlqqfjfmlt2wos7evenf5ivet2wo
+before: spfkzfmssfjrsevennine8ltlrnrjbcfive8
+found five, changing to 5
+found seven, changing to 7
+found nine, changing to 9
+after: spfkzfmssfjrs7evenn9ine8ltlrnrjbcf5ive8
+before: 1spbthreeshsgmrbcp
+found three, changing to 3
+after: 1spbt3hreeshsgmrbcp
+before: ninefive7cnxznfmcp6nine
+found five, changing to 5
+found nine, changing to 9
+found nine, changing to 9
+after: n9inef5ive7cnxznfmcp6n9ine
+before: eight4one9x3nine
+found one, changing to 1
+found eight, changing to 8
+found nine, changing to 9
+after: e8ight4o1ne9x3n9ine
+before: eightnine4kgxhxx1ckrqlrn
+found eight, changing to 8
+found nine, changing to 9
+after: e8ightn9ine4kgxhxx1ckrqlrn
+before: 6sevenkjmfxrbhck
+found seven, changing to 7
+after: 6s7evenkjmfxrbhck
+before: jsgtwonefvmcdsnqfp4fivefivesevenhkbkqcb1vgkshfnxfc
+found one, changing to 1
+found two, changing to 2
+found five, changing to 5
+found five, changing to 5
+found seven, changing to 7
+after: jsgt2wo1nefvmcdsnqfp4f5ivef5ives7evenhkbkqcb1vgkshfnxfc
+before: eightcvzmtlvsm49
+found eight, changing to 8
+after: e8ightcvzmtlvsm49
+before: 78four
+found four, changing to 4
+after: 78f4our
+before: threeoneninecjzs75
+found one, changing to 1
+found three, changing to 3
+found nine, changing to 9
+after: t3hreeo1nen9inecjzs75
+before: xrxrsrh58
+after: xrxrsrh58
+before: 1zqkhcvoneseventwohbrfbqgvp
+found one, changing to 1
+found two, changing to 2
+found seven, changing to 7
+after: 1zqkhcvo1nes7event2wohbrfbqgvp
+before: 9zfznrfvtgjfhsk
+after: 9zfznrfvtgjfhsk
+before: v5jcblbstnvxk
+after: v5jcblbstnvxk
+before: 6s1
+after: 6s1
+before: 6three1seven
+found three, changing to 3
+found seven, changing to 7
+after: 6t3hree1s7even
+before: 75xpmzmhqqphgtrblhkcdxczcvbmg
+after: 75xpmzmhqqphgtrblhkcdxczcvbmg
+before: 2rqv989fourthreefourone
+found one, changing to 1
+found three, changing to 3
+found four, changing to 4
+found four, changing to 4
+after: 2rqv989f4ourt3hreef4ouro1ne
+before: zmghjgrfqlzpdcqq9fjnkbl7btgf
+after: zmghjgrfqlzpdcqq9fjnkbl7btgf
+before: 2three3qvbfbn
+found three, changing to 3
+after: 2t3hree3qvbfbn
+before: fivehnklrqktnqqlqfslfjpfpfx9six
+found five, changing to 5
+found six, changing to 6
+after: f5ivehnklrqktnqqlqfslfjpfpfx9s6ix
+before: 3xvskqbjzrlonetwo
+found one, changing to 1
+found two, changing to 2
+after: 3xvskqbjzrlo1net2wo
+before: 95fx6sevenseven3grfncsdttt
+found seven, changing to 7
+found seven, changing to 7
+after: 95fx6s7evens7even3grfncsdttt
+before: two8twoklgnrm
+found two, changing to 2
+found two, changing to 2
+after: t2wo8t2woklgnrm
+before: two9seven6eight
+found two, changing to 2
+found seven, changing to 7
+found eight, changing to 8
+after: t2wo9s7even6e8ight
+before: 7lh2sevenshfvljtphhnbhvkzxxgjjrvlq7
+found seven, changing to 7
+after: 7lh2s7evenshfvljtphhnbhvkzxxgjjrvlq7
+before: ninemdgkndsevensevensix4seven
+found six, changing to 6
+found seven, changing to 7
+found seven, changing to 7
+found seven, changing to 7
+found nine, changing to 9
+after: n9inemdgknds7evens7evens6ix4s7even
+before: 4three6eight1lkdmtbh
+found three, changing to 3
+found eight, changing to 8
+after: 4t3hree6e8ight1lkdmtbh
+before: 7rdpvbqljvnine82pmqclfive
+found five, changing to 5
+found nine, changing to 9
+after: 7rdpvbqljvn9ine82pmqclf5ive
+before: nine6nine7seven6
+found seven, changing to 7
+found nine, changing to 9
+found nine, changing to 9
+after: n9ine6n9ine7s7even6
+before: 54rvpqphbpxmcfjmcspsnhrjp
+after: 54rvpqphbpxmcfjmcspsnhrjp
+before: eightn2skzmpmtgqhvvfxgqonevtbfsmfklzspxdrgj
+found one, changing to 1
+found eight, changing to 8
+after: e8ightn2skzmpmtgqhvvfxgqo1nevtbfsmfklzspxdrgj
+before: nine276rzshsrvncjrdzfxbmzzlvkhdlcc
+found nine, changing to 9
+after: n9ine276rzshsrvncjrdzfxbmzzlvkhdlcc
+before: sevenfivexgznfftgthree44
+found three, changing to 3
+found five, changing to 5
+found seven, changing to 7
+after: s7evenf5ivexgznfftgt3hree44
+before: fivekltdkmm3rdmdnm32nineddsfdzpks
+found five, changing to 5
+found nine, changing to 9
+after: f5ivekltdkmm3rdmdnm32n9ineddsfdzpks
+"7679"
+79
+"94923"
+93
+"3"
+33
+"897"
+87
+"776872"
+72
+"289495"
+25
+"185"
+15
+"825637"
+87
+"9712"
+92
+"25844"
+24
+"79"
+79
+"19594"
+14
+"4759"
+49
+"1"
+11
+"78"
+78
+"854"
+84
+"28612"
+22
+"25524"
+24
+"363"
+33
+"9871"
+91
+"1651687"
+17
+"31"
+31
+"135"
+15
+"872844"
+84
+"837"
+87
+"99175"
+95
+"85994474"
+84
+"64"
+64
+"3254"
+34
+"266"
+26
+"3755"
+35
+"285914"
+24
+"382"
+32
+"27916567"
+27
+"3825433"
+33
+"84"
+84
+"74967"
+77
+"226"
+26
+"9975"
+95
+"2"
+22
+"327"
+37
+"92973"
+93
+"47723199"
+49
+"34"
+34
+"58685"
+55
+"29333"
+23
+"346"
+36
+"692"
+62
+"91"
+91
+"814"
+84
+"817"
+87
+"97997"
+97
+"8256"
+86
+"697"
+67
+"2"
+22
+"57343"
+53
+"99663"
+93
+"31419648"
+38
+"428175"
+45
+"714"
+74
+"733156"
+76
+"178482"
+12
+"7653"
+73
+"2115522"
+22
+"586"
+56
+"123389"
+19
+"5667"
+57
+"95798"
+98
+"7683214"
+74
+"3145"
+35
+"75384"
+74
+"36191"
+31
+"32"
+32
+"731"
+71
+"828384"
+84
+"214113556"
+26
+"47831"
+41
+"8224"
+84
+"2187437"
+27
+"1711"
+11
+"7226"
+76
+"5"
+55
+"53"
+53
+"6"
+66
+"9774"
+94
+"6462"
+62
+"982"
+92
+"965588"
+98
+"1"
+11
+"4411"
+41
+"28"
+28
+"3144"
+34
+"45742"
+42
+"4"
+44
+"1584"
+14
+"66"
+66
+"4967"
+47
+"56841"
+51
+"5366"
+56
+"57"
+57
+"3631921"
+31
+"81939"
+89
+"6418"
+68
+"1"
+11
+"273"
+23
+"272398"
+28
+"376233"
+33
+"63855"
+65
+"16713"
+13
+"23443"
+23
+"563477"
+57
+"17981"
+11
+"2687"
+27
+"3829"
+39
+"3"
+33
+"4899667"
+47
+"88679"
+89
+"85"
+85
+"7353582"
+72
+"5125"
+55
+"6365141"
+61
+"2"
+22
+"17379"
+19
+"389"
+39
+"6"
+66
+"9289637"
+97
+"89855"
+85
+"86"
+86
+"56118"
+58
+"36873"
+33
+"92114112"
+92
+"968116"
+96
+"56884"
+54
+"27241"
+21
+"915836521"
+91
+"3869678"
+38
+"32"
+32
+"4868"
+48
+"542923"
+53
+"3"
+33
+"6484"
+64
+"1462"
+12
+"829"
+89
+"322765"
+35
+"42"
+42
+"496"
+46
+"89786"
+86
+"2723921"
+21
+"8214"
+84
+"6174"
+64
+"786"
+76
+"98"
+98
+"283278"
+28
+"237532"
+22
+"58"
+58
+"8"
+88
+"1463"
+13
+"522"
+52
+"32557"
+37
+"54"
+54
+"633543"
+63
+"414"
+44
+"37278718"
+38
+"74498631"
+71
+"1964314"
+14
+"716"
+76
+"427"
+47
+"2715"
+25
+"5775353"
+53
+"137464"
+14
+"39841733"
+33
+"42"
+42
+"4223"
+43
+"5433449"
+59
+"55139"
+59
+"81988"
+88
+"82"
+82
+"73251"
+71
+"65854"
+64
+"61367"
+67
+"2621"
+21
+"2579"
+29
+"9126"
+96
+"274341"
+21
+"839"
+89
+"8295"
+85
+"229"
+29
+"154822"
+12
+"5395"
+55
+"56"
+56
+"27727"
+27
+"36194382"
+32
+"18779"
+19
+"417"
+47
+"1"
+11
+"268887"
+27
+"248"
+28
+"171"
+11
+"537"
+57
+"5656"
+56
+"219452"
+22
+"448953"
+43
+"519632"
+52
+"94265"
+95
+"66495354"
+64
+"14"
+14
+"743276"
+76
+"6292635"
+65
+"81"
+81
+"6"
+66
+"84"
+84
+"568813"
+53
+"85349"
+89
+"67741"
+61
+"93"
+93
+"7579"
+79
+"8211574"
+84
+"7"
+77
+"216"
+26
+"175967"
+17
+"77"
+77
+"8242"
+82
+"1264"
+14
+"434418"
+48
+"1696"
+16
+"9287529"
+99
+"93487"
+97
+"3898"
+38
+"872712"
+82
+"239524"
+24
+"1511511"
+11
+"351"
+31
+"27"
+27
+"31518"
+38
+"57521"
+51
+"92"
+92
+"4811"
+41
+"648211"
+61
+"48634"
+44
+"56"
+56
+"4871"
+41
+"83"
+83
+"68122"
+62
+"152469"
+19
+"46224"
+44
+"18"
+18
+"39"
+39
+"47"
+47
+"99"
+99
+"21595"
+25
+"6719"
+69
+"6769"
+69
+"629198"
+68
+"245"
+25
+"35649"
+39
+"71863"
+73
+"5451"
+51
+"8"
+88
+"9577"
+97
+"4823"
+43
+"6332"
+62
+"99"
+99
+"98831539"
+99
+"636"
+66
+"682"
+62
+"18369"
+19
+"97"
+97
+"6364"
+64
+"816"
+86
+"365"
+35
+"887114"
+84
+"29741"
+21
+"81"
+81
+"8293772457"
+87
+"494"
+44
+"69579"
+69
+"158"
+18
+"96137244"
+94
+"914854"
+94
+"129191"
+11
+"94633"
+93
+"655"
+65
+"3941"
+31
+"456159"
+49
+"7127"
+77
+"2519685"
+25
+"56"
+56
+"5522"
+52
+"9462"
+92
+"5149"
+59
+"88622"
+82
+"33851"
+31
+"72323"
+73
+"28"
+28
+"3781474"
+34
+"274"
+24
+"5277686"
+56
+"91139"
+99
+"9327"
+97
+"4"
+44
+"8629"
+89
+"8536"
+86
+"181392"
+12
+"8933"
+83
+"9652"
+92
+"4117272"
+42
+"976"
+96
+"3"
+33
+"869"
+89
+"2386"
+26
+"8779"
+89
+"42"
+42
+"69"
+69
+"419"
+49
+"11153186"
+16
+"6349636"
+66
+"121979"
+19
+"6"
+66
+"115"
+15
+"1385"
+15
+"145495"
+15
+"37691"
+31
+"1881"
+11
+"893"
+83
+"3322"
+32
+"236"
+26
+"6682"
+62
+"3768241"
+31
+"338968"
+38
+"6649"
+69
+"982914"
+94
+"2667"
+27
+"62328"
+68
+"8819"
+89
+"8247174"
+84
+"895911"
+81
+"7576"
+76
+"5892"
+52
+"9"
+99
+"8"
+88
+"1773"
+13
+"841421"
+81
+"8"
+88
+"45"
+45
+"213"
+23
+"241"
+21
+"636"
+66
+"79655"
+75
+"9516"
+96
+"993223"
+93
+"29193"
+23
+"23128"
+28
+"96"
+96
+"868"
+88
+"68"
+68
+"5131"
+51
+"846"
+86
+"91223"
+93
+"48"
+48
+"59463511"
+51
+"72554"
+74
+"119"
+19
+"78982"
+72
+"959"
+99
+"8622118"
+88
+"719"
+79
+"6282"
+62
+"636162"
+62
+"56925"
+55
+"77881"
+71
+"974"
+94
+"588729"
+59
+"48945"
+45
+"88284"
+84
+"222"
+22
+"624"
+64
+"13218"
+18
+"3698"
+38
+"47665"
+45
+"7122"
+72
+"59"
+59
+"614"
+64
+"89"
+89
+"183967"
+17
+"373"
+33
+"62762"
+62
+"4581495"
+45
+"95965"
+95
+"449325"
+45
+"589"
+59
+"1613464"
+14
+"5189"
+59
+"77715"
+75
+"61996326"
+66
+"54"
+54
+"62736"
+66
+"845"
+85
+"188943"
+13
+"948"
+98
+"12663"
+13
+"5382"
+52
+"36"
+36
+"997855"
+95
+"71"
+71
+"5857"
+57
+"275"
+25
+"75536154"
+74
+"4156"
+46
+"875173"
+83
+"7241"
+71
+"17"
+17
+"654"
+64
+"3767"
+37
+"85885"
+85
+"6395829121"
+61
+"9272"
+92
+"167"
+17
+"826"
+86
+"467376"
+46
+"82943"
+83
+"21192"
+22
+"9198"
+98
+"6473"
+63
+"47375"
+45
+"189271"
+11
+"8462"
+82
+"43356"
+46
+"6"
+66
+"72789"
+79
+"28"
+28
+"983"
+93
+"541"
+51
+"122"
+12
+"79219"
+79
+"651437"
+67
+"1243"
+13
+"56"
+56
+"56549"
+59
+"3"
+33
+"79"
+79
+"8"
+88
+"82122"
+82
+"8665"
+85
+"3184925"
+35
+"994116"
+96
+"86122241"
+81
+"34"
+34
+"8242"
+82
+"93634"
+94
+"72664"
+74
+"235399"
+29
+"8249238"
+88
+"22158396"
+26
+"48123"
+43
+"38"
+38
+"99463"
+93
+"4722"
+42
+"815"
+85
+"5491"
+51
+"98964"
+94
+"32252"
+32
+"7466"
+76
+"76728"
+78
+"5471"
+51
+"685546"
+66
+"424"
+44
+"453"
+43
+"342"
+32
+"714248"
+78
+"777"
+77
+"6854795"
+65
+"246"
+26
+"7784"
+74
+"81153"
+83
+"38747"
+37
+"5834"
+54
+"1236"
+16
+"48561"
+41
+"6"
+66
+"1516"
+16
+"351"
+31
+"694943"
+63
+"7171"
+71
+"216"
+26
+"36"
+36
+"671"
+61
+"759"
+79
+"899"
+89
+"7"
+77
+"8796973"
+83
+"857"
+87
+"426"
+46
+"39424"
+34
+"1487"
+17
+"91364"
+94
+"242138"
+28
+"485"
+45
+"83794"
+84
+"2992"
+22
+"69151"
+61
+"3"
+33
+"86374277"
+87
+"2"
+22
+"229825"
+25
+"83"
+83
+"433"
+43
+"934"
+94
+"351421"
+31
+"45"
+45
+"61686"
+66
+"638871"
+61
+"79237"
+77
+"298"
+28
+"9"
+99
+"8418238"
+88
+"616"
+66
+"3"
+33
+"51638423"
+53
+"7797"
+77
+"585"
+55
+"67336"
+66
+"948248"
+98
+"6393"
+63
+"118"
+18
+"32968"
+38
+"93141"
+91
+"19"
+19
+"8855"
+85
+"88177"
+87
+"86825"
+85
+"2888722"
+22
+"8"
+88
+"84935"
+85
+"674773"
+63
+"1828"
+18
+"6753"
+63
+"5512"
+52
+"9"
+99
+"86133"
+83
+"35618"
+38
+"864"
+84
+"9693"
+93
+"7482"
+72
+"88"
+88
+"5875"
+55
+"345"
+35
+"34117"
+37
+"6915"
+65
+"417296"
+46
+"8521"
+81
+"9144"
+94
+"562"
+52
+"46482"
+42
+"76122"
+72
+"59153"
+53
+"1945"
+15
+"3622"
+32
+"7156994"
+74
+"643"
+63
+"3"
+33
+"444"
+44
+"389"
+39
+"19228"
+18
+"698"
+68
+"656"
+66
+"187559"
+19
+"6"
+66
+"241"
+21
+"253"
+23
+"698584"
+64
+"429882"
+42
+"513735"
+55
+"8192"
+82
+"82261286"
+86
+"6561245"
+65
+"6318"
+68
+"7539"
+79
+"632"
+62
+"3567"
+37
+"85"
+85
+"49197"
+47
+"4356417"
+47
+"94"
+94
+"4681688"
+48
+"384"
+34
+"5325971"
+51
+"1123"
+13
+"56734"
+54
+"1391"
+11
+"962"
+92
+"14118"
+18
+"693"
+63
+"768"
+78
+"55"
+55
+"5221796"
+56
+"45"
+45
+"251"
+21
+"9247"
+97
+"14566"
+16
+"2222"
+22
+"62"
+62
+"64"
+64
+"398758"
+38
+"58869"
+59
+"1571"
+11
+"787"
+77
+"6356"
+66
+"7919498"
+78
+"139"
+19
+"818"
+88
+"211519"
+29
+"2373"
+23
+"699424"
+64
+"359653"
+33
+"883562"
+82
+"941"
+91
+"75"
+75
+"88"
+88
+"181349"
+19
+"657439"
+69
+"3433"
+33
+"889"
+89
+"68964"
+64
+"8263"
+83
+"6968"
+68
+"47175"
+45
+"426929"
+49
+"71798"
+78
+"4928"
+48
+"92215"
+95
+"6118547"
+67
+"42374382"
+42
+"57"
+57
+"7"
+77
+"522"
+52
+"927"
+97
+"3245"
+35
+"837832"
+82
+"2151"
+21
+"36845298"
+38
+"9182"
+92
+"6721"
+61
+"5481"
+51
+"852983"
+83
+"8738"
+88
+"864"
+84
+"7253"
+73
+"468"
+48
+"9226"
+96
+"254"
+24
+"12619"
+19
+"9716"
+96
+"5184535"
+55
+"57687"
+57
+"63761"
+61
+"91"
+91
+"59683461"
+51
+"565933"
+53
+"819216"
+86
+"6372"
+62
+"775"
+75
+"664894"
+64
+"19686"
+16
+"651"
+61
+"7368"
+78
+"831"
+81
+"237"
+27
+"92973"
+93
+"787"
+77
+"163"
+13
+"2882"
+22
+"3886"
+36
+"3"
+33
+"23"
+23
+"5"
+55
+"91"
+91
+"17254523"
+13
+"9377"
+97
+"16413"
+13
+"7712"
+72
+"6597"
+67
+"353"
+33
+"8934"
+84
+"859218"
+88
+"5765384"
+54
+"569"
+59
+"7"
+77
+"8822"
+82
+"888"
+88
+"2953"
+23
+"526671"
+51
+"82114"
+84
+"587"
+57
+"672238"
+68
+"1223863"
+13
+"24"
+24
+"176814"
+14
+"22928"
+28
+"154"
+14
+"47621"
+41
+"91752"
+92
+"186627"
+17
+"342327"
+37
+"1977"
+17
+"823548"
+88
+"9733"
+93
+"6831"
+61
+"6351"
+61
+"998"
+98
+"5686"
+56
+"1323"
+13
+"336"
+36
+"34755"
+35
+"919993"
+93
+"281"
+21
+"248"
+28
+"64"
+64
+"1424713"
+13
+"8482"
+82
+"51"
+51
+"9837"
+97
+"3223934"
+34
+"897"
+87
+"333"
+33
+"865"
+85
+"386"
+36
+"7354835"
+75
+"9146"
+96
+"563"
+53
+"944"
+94
+"389"
+39
+"4653"
+43
+"35614"
+34
+"5499"
+59
+"83945"
+85
+"476784"
+44
+"21291"
+21
+"7723"
+73
+"576"
+56
+"287585"
+25
+"3648"
+38
+"6389554"
+64
+"755584"
+74
+"8399"
+89
+"72644"
+74
+"72"
+72
+"139591"
+11
+"1369"
+19
+"958"
+98
+"257842"
+22
+"475"
+45
+"33785"
+35
+"11336"
+16
+"59438"
+58
+"5392"
+52
+"537278834"
+54
+"515854"
+54
+"84776"
+86
+"95143"
+93
+"771229"
+79
+"755438"
+78
+"767"
+77
+"176218"
+18
+"3"
+33
+"9983"
+93
+"973"
+93
+"846"
+86
+"81"
+81
+"9179"
+99
+"91395"
+95
+"48"
+48
+"5747"
+57
+"551"
+51
+"2"
+22
+"54"
+54
+"737"
+77
+"2918"
+28
+"82255"
+85
+"86"
+86
+"5484"
+54
+"334"
+34
+"3"
+33
+"11548"
+18
+"82929"
+89
+"6954642"
+62
+"92"
+92
+"51"
+51
+"18113"
+13
+"18"
+18
+"842672"
+82
+"9482"
+92
+"4839"
+49
+"1717"
+17
+"515"
+55
+"1943"
+13
+"242"
+22
+"8"
+88
+"6"
+66
+"24"
+24
+"57457"
+57
+"8292992"
+82
+"1"
+11
+"237"
+27
+"44"
+44
+"4"
+44
+"33319618"
+38
+"1"
+11
+"144782498"
+18
+"9461592"
+92
+"8"
+88
+"87153"
+83
+"77461"
+71
+"67914"
+64
+"646"
+66
+"4"
+44
+"4391724"
+44
+"85"
+85
+"53"
+53
+"5253"
+53
+"69914"
+64
+"558212"
+52
+"41756"
+46
+"6894"
+64
+"9451"
+91
+"39"
+39
+"216536"
+26
+"378"
+38
+"143"
+13
+"163135"
+15
+"41253535"
+45
+"28495"
+25
+"374239"
+39
+"1461543"
+13
+"95"
+95
+"5262"
+52
+"3518"
+38
+"6877"
+67
+"21998"
+28
+"73457877"
+77
+"43752"
+42
+"31533"
+33
+"99739"
+99
+"472732"
+42
+"299"
+29
+"676119"
+69
+"99213"
+93
+"165791"
+11
+"97"
+97
+"969"
+99
+"97"
+97
+"17"
+17
+"2"
+22
+"794"
+74
+"212"
+22
+"474316"
+46
+"8"
+88
+"9"
+99
+"6429478"
+68
+"787451"
+71
+"4225319"
+49
+"563231"
+51
+"74115"
+75
+"187"
+17
+"2336"
+26
+"363"
+33
+"63"
+63
+"422767"
+47
+"72795"
+75
+"29383"
+23
+"3724476"
+36
+"7831"
+71
+"531"
+51
+"18954"
+14
+"824843938"
+88
+"676"
+66
+"471"
+41
+"35434"
+34
+"883"
+83
+"5249"
+59
+"76587872"
+72
+"4768"
+48
+"1882"
+12
+"538"
+58
+"6655"
+65
+"273221"
+21
+"5565"
+55
+"7761"
+71
+"36465"
+35
+"99"
+99
+"729"
+79
+"88259"
+89
+"1228"
+18
+"8791"
+81
+"4"
+44
+"3624"
+34
+"26982"
+22
+"464"
+44
+"4931"
+41
+"562"
+52
+"72"
+72
+"4868"
+48
+"28751"
+21
+"521"
+51
+"283167"
+27
+"23"
+23
+"236379"
+29
+"797918"
+78
+"12114"
+14
+"7631545"
+75
+"2135811"
+21
+"55453"
+53
+"93912"
+92
+"17172526"
+16
+"68985"
+65
+"151"
+11
+"1193"
+13
+"5283"
+53
+"14755"
+15
+"2325"
+25
+"5257"
+57
+"131"
+11
+"718"
+78
+"854476"
+86
+"853"
+83
+"85337"
+87
+"562"
+52
+"22839"
+29
+"5191"
+51
+"536278"
+58
+"3268"
+38
+"269"
+29
+"51868259"
+59
+"366258"
+38
+"769"
+79
+"4289421"
+41
+"3432"
+32
+"49278"
+48
+"758"
+78
+"9156"
+96
+"28115"
+25
+"646"
+66
+"3666"
+36
+"32876782"
+32
+"365566"
+36
+"583988"
+58
+"1279945"
+15
+"7"
+77
+"954"
+94
+"76545"
+75
+"5532"
+52
+"443"
+43
+"242"
+22
+"63778"
+68
+"879"
+89
+"466"
+46
+"6627"
+67
+"3333"
+33
+"833"
+83
+"38"
+38
+"243"
+23
+"81242319"
+89
+"5239"
+59
+"273"
+23
+"6148938"
+68
+"782752"
+72
+"79858"
+78
+"13"
+13
+"95769"
+99
+"841939"
+89
+"8941"
+81
+"67"
+67
+"2145571"
+21
+"849"
+89
+"784"
+74
+"31975"
+35
+"58"
+58
+"1172"
+12
+"9"
+99
+"5"
+55
+"61"
+61
+"6317"
+67
+"75"
+75
+"29894341"
+21
+"97"
+97
+"233"
+23
+"596"
+56
+"312"
+32
+"956773"
+93
+"282"
+22
+"29768"
+28
+"7277"
+77
+"977647"
+97
+"43681"
+41
+"79825"
+75
+"969776"
+96
+"54"
+54
+"821"
+81
+"9276"
+96
+"75344"
+74
+"53329"
+59
+The sum is: 55614

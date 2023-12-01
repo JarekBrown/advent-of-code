@@ -1,0 +1,16 @@
+alias r := run
+alias b := build
+alias d := debug
+
+run DAY:
+	cargo run --release -- --day {{DAY}}
+
+build DAY:
+	cargo build --release -- --day {{DAY}}
+
+debug DAY:
+	cargo run -- --day {{DAY}} 
+
+input DAY:
+	curl https://adventofcode.com/2023/day/{{DAY}}/input
+	
