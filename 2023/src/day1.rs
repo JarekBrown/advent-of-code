@@ -1,5 +1,6 @@
 use std::fs;
 
+/// ## Runner for Day 1
 pub fn run() {
     let data = read_in();
 
@@ -24,8 +25,9 @@ pub fn run() {
 }
 
 fn read_in() -> Vec<String> {
+    //! reads in file
     let mut output = Vec::new();
-    for line in fs::read_to_string("input.txt")
+    for line in fs::read_to_string("data/day1.txt")
         .expect("couldn't read file")
         .lines()
     {
@@ -37,6 +39,7 @@ fn read_in() -> Vec<String> {
 }
 
 fn get_first(text: String) -> String {
+    //! gets first char of string
     let out = text
         .chars()
         .next()
@@ -46,6 +49,7 @@ fn get_first(text: String) -> String {
 }
 
 fn get_last(text: String) -> String {
+    //! gets last char of string
     let index = text.len();
     let out = text
         .chars()
@@ -56,6 +60,7 @@ fn get_last(text: String) -> String {
 }
 
 fn convert_from_string(text: String) -> String {
+    //! converts any instance of the written form of number to numerical form
     let string_forms: [&str; 9] = [
         "one", "two", "three", "four", "five", "six", "seven", "eight", "nine",
     ];
