@@ -2,6 +2,7 @@ use clap::{arg, command, value_parser};
 use std::env;
 
 mod day1;
+mod day2;
 
 fn main() {
     let args = command!()
@@ -19,6 +20,7 @@ fn main() {
 fn handler(arg: &i32) {
     match arg {
         1 => day1::run(),
+        2 => day2::run(),
         _ => panic!("no currently valid day provided"),
     }
 }
