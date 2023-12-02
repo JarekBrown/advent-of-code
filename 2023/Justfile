@@ -1,3 +1,4 @@
+set windows-shell := ["pwsh","-c"]
 alias r := run
 alias b := build
 alias d := debug
