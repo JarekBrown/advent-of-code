@@ -1,8 +1,10 @@
+#![allow(dead_code, unused_mut, unused_variables, unused_imports)]
 use clap::{arg, command, value_parser};
 use std::env;
 
 mod day1;
 mod day2;
+mod day3;
 
 fn main() {
     let args = command!()
@@ -21,6 +23,7 @@ fn handler(arg: &i32) {
     match arg {
         1 => day1::run(),
         2 => day2::run(),
+        3 => day3::run(),
         _ => panic!("no currently valid day provided"),
     }
 }

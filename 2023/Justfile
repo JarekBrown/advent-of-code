@@ -1,16 +1,26 @@
 set windows-shell := ["pwsh","-c"]
 alias r := run
 alias b := build
-alias d := debug
+alias dr := debug_run
+alias db := debug_build
+alias t := test
 
 # run with release flag
 run DAY:
 	cargo run --release -- --day {{DAY}}
 
 # build with release flag
-build DAY:
-	cargo build --release -- --day {{DAY}}
+build:
+	cargo build --release
 
 # run without release flag
-debug DAY:
-	cargo run -- --day {{DAY}} 
+debug_run DAY:
+	cargo run -- --day {{DAY}}
+
+# build without release flag
+debug_build:
+	cargo build
+
+# runs tests
+test:
+	cargo test -- --nocapture
