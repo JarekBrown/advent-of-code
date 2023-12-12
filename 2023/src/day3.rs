@@ -2,6 +2,10 @@ use regex::Regex;
 use std::collections::VecDeque;
 use std::error::Error;
 use std::fs;
+use std::sync::OnceLock;
+
+static SYMBOLS: OnceLock<Regex> = OnceLock::new();
+static NUMBERS: OnceLock<Regex> = OnceLock::new();
 
 /// ## Runner for Day 3
 pub fn run() {
@@ -13,13 +17,24 @@ pub fn run() {
 }
 
 fn part1(file: &str) -> i32 {
+    SYMBOLS
+        .set(Regex::new(r"[+\-*/&%$#@=]").unwrap())
+        .expect("failed to set SYMBOLS");
+    NUMBERS
+        .set(Regex::new(r"[[\p{N}--[\p{Nd}--[0-9]]]]").unwrap())
+        .expect("failed to set NUMBERS");
     let lines = read_in(file);
     let mut symbol_locations: VecDeque<VecDeque<usize>> = VecDeque::<VecDeque<usize>>::new();
     for line in &lines {
         let x: VecDeque<&str> = line.rsplit('.').collect();
         symbol_locations.push_back(locate_symbol(line.clone()));
     }
-    score(&mut symbol_locations, lines)
+    score_part1(&mut symbol_locations, lines)
+}
+
+fn part2(file: &str) -> i32 {
+    let lines = read_in(file);
+    0
 }
 
 fn read_in(path: &str) -> Vec<String> {
@@ -39,31 +54,40 @@ fn read_in(path: &str) -> Vec<String> {
 fn locate_symbol(line: String) -> VecDeque<usize> {
     //! locates symbols and stores their locations
     let mut locations: VecDeque<usize> = VecDeque::new();
-    let re = Regex::new(r"[+\-*/&%$#@=]").unwrap();
     // convert line to chars
     let text: Vec<char> = line.chars().collect();
     for (i, item) in text.iter().enumerate() {
-        if re.is_match(&item.to_string()) {
+        if SYMBOLS
+            .get()
+            .expect("failed to get regex from SYMBOLS")
+            .is_match(&item.to_string())
+        {
             locations.push_back(i);
         }
     }
     locations
 }
 
-fn score(symbols: &mut VecDeque<VecDeque<usize>>, lines: Vec<String>) -> i32 {
+fn score_part1(symbols: &mut VecDeque<VecDeque<usize>>, lines: Vec<String>) -> i32 {
     //! determines valid numbers and returns overall sum
     let mut values: Vec<i32> = Vec::new();
-    let re = Regex::new(r"[[\p{N}--[\p{Nd}--[0-9]]]]").unwrap();
     for (i, line) in lines.iter().enumerate() {
         let valid = get_symbols(&mut symbols.clone(), i);
-        let re_ops = Regex::new(r"[+\-*/&%$#@=]").unwrap();
-        let l: String = re_ops.replace_all(line, ".").to_string();
-        let tmp: String = l.split('.').collect();
+        let l: String = SYMBOLS
+            .get()
+            .expect("failed to get regex from SYMBOLS")
+            .replace_all(line, ".")
+            .to_string();
         let mut checked: Vec<usize> = Vec::new();
         for character in l.split('.').into_iter() {
             let (check, j) = repeat_check(line, character, checked.clone());
             checked = add_checked(&mut checked, j, character);
-            if re.is_match(character) && check {
+            if NUMBERS
+                .get()
+                .expect("failed to get NUMBERS")
+                .is_match(character)
+                && check
+            {
                 let start = j;
                 let end = start + character.len() - 1;
                 if valid.contains(&start) || valid.contains(&end) {
@@ -139,7 +163,6 @@ mod tests {
     use super::*;
     #[test]
     fn day3_part1() -> Result<(), Box<dyn Error>> {
-        // part1("data/day3_test.txt");
         assert_eq!(part1("data/day3_test.txt"), 4361);
         Ok(())
     }
